@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mining Globe</title>
+  <style>
+    html, body {
+      margin: 0; padding: 0; overflow: hidden;
+      background-color: black;
+      width: 100%; height: 100%;
+      font-family: Arial, sans-serif;
+    }
+    #globeViz {
+      width: 100vw;
+      height: 100vh;
+    }
+    #infoPopup {
+      position: absolute;
+      background: rgba(0,0,0,0.85);
+      color: #ffd700;
+      padding: 15px 20px;
+      border-radius: 10px;
+      max-width: 280px;
+      box-shadow: 0 0 10px #ffea00;
+      font-size: 14px;
+      display: none;
+      z-index: 1000;
+      pointer-events: auto;
+      user-select: none;
+      cursor: grab;
+    }
+    #infoPopup h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      font-size: 18px;
+      color: #fffacd;
+    }
+    #infoPopup .close-btn {
+      position: absolute;
+      top: 5px;
+      right: 10px;
+      color: #ffea00;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    #infoPopup .info-row {
+      margin-bottom: 6px;
+    }
+    #animateBtn {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 200;
+      background-color: #ffd700;
+      border: none;
+      color: black;
+      font-weight: bold;
+      padding: 10px 15px;
+      border-radius: 8px;
+      cursor: pointer;
+      box-shadow: 0 0 10px #ffea00;
+      user-select: none;
+      font-size: 14px;
+    }
+    #animateBtn:hover {
+      background-color: #ffea00;
+    }
+  </style>
+</head>
+<body>
+  <div id="globeViz"></div>
+
+  <button id="animateBtn" title="Show Mining Buildings">Show Mining Buildings</button>
+
+  <div id="infoPopup">
+    <div class="close-btn" title="닫기">×</div>
+    <h3 id="popupCity"></h3>
+    <div class="info-row"><strong>기업명:</strong> <span id="popupCompany"></span></div>
+    <div class="info-row"><strong>채굴량:</strong> <span id="popupVolume"></span> units</div>
+    <div class="info-row"><strong>탄소 수준:</strong> <span id="popupCO2"></span></div>
+  </div>
+
+  <script src="https://unpkg.com/three@0.150.1/build/three.min.js"></script>
+  <script src="https://unpkg.com/globe.gl"></script>
+  <script>
+    let currentData = [];
+    let selectedCity = null;
+    let animateAll = false;
+    let animationFrame;
+
+    const infoPopup = document.getElementById('infoPopup');
+    const popupCity = document.getElementById('popupCity');
+    const popupCompany = document.getElementById('popupCompany');
+    const popupVolume = document.getElementById('popupVolume');
+    const popupCO2 = document.getElementById('popupCO2');
+    const closeBtn = infoPopup.querySelector('.close-btn');
+    const animateBtn = document.getElementById('animateBtn');
+
+    function closePopup() {
+      selectedCity = null;
+      animateAll = false;
+      globe.controls().autoRotate = true;
+      infoPopup.style.display = 'none';
+      animateBtn.textContent = 'Show Mining Buildings';
+    }
+    closeBtn.onclick = closePopup;
+
+    animateBtn.onclick = () => {
+      animateAll = !animateAll;
+      selectedCity = null;
+      infoPopup.style.display = 'none';
+      globe.controls().autoRotate = !animateAll;
+      animateBtn.textContent = animateAll ? 'Hide Mining Buildings' : 'Show Mining Buildings';
+    };
+
+    // Drag popup
+    let isDragging = false, dragOffsetX = 0, dragOffsetY = 0;
+    infoPopup.addEventListener('mousedown', e => {
+      isDragging = true;
+      dragOffsetX = e.clientX - infoPopup.offsetLeft;
+      dragOffsetY = e.clientY - infoPopup.offsetTop;
+      infoPopup.style.cursor = 'grabbing';
+      e.preventDefault();
+    });
+    window.addEventListener('mouseup', () => {
+      isDragging = false;
+      infoPopup.style.cursor = 'grab';
+    });
+    window.addEventListener('mousemove', e => {
+      if (!isDragging) return;
+      let x = e.clientX - dragOffsetX;
+      let y = e.clientY - dragOffsetY;
+      x = Math.min(Math.max(0, x), window.innerWidth - infoPopup.offsetWidth);
+      y = Math.min(Math.max(0, y), window.innerHeight - infoPopup.offsetHeight);
+      infoPopup.style.left = x + 'px';
+      infoPopup.style.top = y + 'px';
+    });
+
+    fetch('/assets/mining_locations.json')
+      .then(res => res.json())
+      .then(data => {
+        currentData = data.map(d => ({ ...d, altitude: 0 }));
+
+        window.globe = Globe()
+          .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+          .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
+          .backgroundColor('#000000')
+          .showAtmosphere(true)
+          .atmosphereColor('gold')
+          .atmosphereAltitude(0.25)
+          .pointsData(currentData)
+          .pointLat('lat')
+          .pointLng('lon')
+          .pointAltitude(d => d.altitude)
+          .pointRadius(0.6)
+          .pointColor(() => '#ffd700')
+          .labelsData(currentData)
+          .labelLat('lat')
+          .labelLng('lon')
+          .labelText(d => {
+            let name = d.country || d.city;
+            return name.length > 12 ? name.slice(0, 9) + '...' : name;
+          })
+          .labelSize(0.8)
+          .labelColor(() => '#000000')
+          .labelDotRadius(0.3)
+          .labelAltitude(0.02)
+          .labelResolution(2)
+          .onPointHover(() => {})
+          .onPointClick(d => {
+            if (!d) {
+              closePopup();
+              return;
+            }
+            selectedCity = d.city;
+            animateAll = false;
+            globe.controls().autoRotate = false;
+
+            popupCity.textContent = d.city + (d.country ? ', ' + d.country : '');
+            popupCompany.textContent = d.company || '알 수 없음';
+            popupVolume.textContent = d.mining_volume;
+            popupCO2.textContent = d.co2_level || '정보 없음';
+
+            infoPopup.style.display = 'block';
+
+            const { lat, lon } = d;
+            const phi = (90 - lat) * Math.PI / 180;
+            const theta = (lon + 180) * Math.PI / 180;
+            const distance = 280;
+
+            globe.camera().position.set(
+              distance * Math.sin(phi) * Math.cos(theta),
+              distance * Math.cos(phi),
+              distance * Math.sin(phi) * Math.sin(theta)
+            );
+            globe.camera().lookAt(0, 0, 0);
+
+            // 팝업 위치 계산
+            setTimeout(() => {
+              const vec = new THREE.Vector3();
+              vec.setFromSphericalCoords(distance, phi, theta);
+              vec.project(globe.camera());
+
+              const popupWidth = infoPopup.offsetWidth;
+              const popupHeight = infoPopup.offsetHeight;
+              let x = (vec.x * 0.5 + 0.5) * window.innerWidth;
+              let y = (-vec.y * 0.5 + 0.5) * window.innerHeight;
+
+              x = Math.min(Math.max(10, x), window.innerWidth - popupWidth - 10);
+              y = Math.min(Math.max(10, y - popupHeight), window.innerHeight - popupHeight - 10);
+
+              infoPopup.style.left = `${x}px`;
+              infoPopup.style.top = `${y}px`;
+            }, 50);
+          });
+
+        const container = document.getElementById('globeViz');
+        globe(container);
+
+        globe.controls().autoRotate = true;
+        globe.controls().autoRotateSpeed = 0.4;
+        globe.camera().position.set(0, 0, 280);
+
+        globe.globeMaterial().color = new THREE.Color('#1a1a1a');
+        globe.globeMaterial().emissive = new THREE.Color('#ffcc00');
+        globe.globeMaterial().emissiveIntensity = 0.5;
+
+        // 애니메이션 업데이트 주기 60fps 제한 (약 16ms)
+        let lastUpdateTime = 0;
+        function animateAltitudes(timestamp=0) {
+          if (timestamp - lastUpdateTime < 16) {
+            animationFrame = requestAnimationFrame(animateAltitudes);
+            return;
+          }
+          lastUpdateTime = timestamp;
+
+          let updated = false;
+          currentData = currentData.map(d => {
+            let targetAltitude = 0;
+            if (animateAll) {
+              targetAltitude = d.mining_volume / 1000;
+            } else if (selectedCity === d.city) {
+              targetAltitude = d.mining_volume / 1000;
+            }
+            const diff = targetAltitude - d.altitude;
+            if (Math.abs(diff) > 0.01) {
+              updated = true;
+              const step = (animateAll) ? 0.03 : 0.08;
+              return { ...d, altitude: d.altitude + diff * step };
+            }
+            // 점점 낮아지는 처리
+            if (!animateAll && selectedCity !== d.city && d.altitude > 0.01) {
+              updated = true;
+              return { ...d, altitude: d.altitude * 0.85 };
+            }
+            return d;
+          });
+
+          if (updated) {
+            globe.pointsData(currentData);
+          }
+
+          animationFrame = requestAnimationFrame(animateAltitudes);
+        }
+
+        animateAltitudes();
+      });
+  </script>
+</body>
+</html>

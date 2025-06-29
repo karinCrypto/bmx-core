@@ -1,0 +1,1005 @@
+country,city,lat,lon,mining_volume,company
+USA,New York,40.7128,-74.006,150,
+South Korea,Seoul,37.5665,126.978,90,
+China,Beijing,39.9042,116.4074,200,
+Germany,Berlin,52.52,13.405,70,
+Vietnam,Ấp Khánh Hòa,10.6333,105.2167,2732,Ấp Khánh Hòa Crypto Miners
+Brazil,Faxinal,-24.0008,-51.32,5051,Faxinal Digital Mine
+United States,Essex,44.5196,-73.0656,5174,Essex Mining Co
+India,Annūr,11.2325,77.1069,8837,Annūr Blockchain Ltd
+Philippines,Jose Pañganiban,14.2922,122.6928,7321,Jose Pañganiban Mining Co
+France,La Ferté-sous-Jouarre,48.9497,3.1303,8195,La Ferté-sous-Jouarre Blockchain Ltd
+Brazil,Viana,-3.22,-45.0039,5415,Viana Crypto Miners
+Algeria,M’Sila,35.7019,4.5472,1880,M’Sila Crypto Miners
+Philippines,Santa Catalina,9.3331,122.8658,4813,Santa Catalina Crypto Miners
+China,Xuqiaocun,30.4274,120.3866,4317,Xuqiaocun Mining Co
+North Macedonia,Konče,41.4958,22.3825,6236,Konče Mining Group
+United States,Clemmons,36.0319,-80.3861,6476,Clemmons Mining Co
+Canada,Sainte-Julienne,45.97,-73.72,7467,Sainte-Julienne Crypto Miners
+Iran,Lālejīn,34.9742,48.4756,6434,Lālejīn Blockchain Ltd
+Thailand,Satuek,15.297,103.2919,2547,Satuek Digital Mine
+India,Molakālumuru,14.7178,76.7468,7095,Molakālumuru Mining Co
+Tajikistan,Konibodom,40.2833,70.4167,1359,Konibodom Crypto Miners
+Switzerland,Lyss,47.075,7.3069,4601,Lyss Mining Co
+Philippines,Despujols,12.5183,122.0108,8210,Despujols Mining Co
+Mexico,Amatitán,20.835,-103.731,8807,Amatitán Digital Mine
+Russia,Sarapul,56.4667,53.8,6235,Sarapul Mining Group
+India,Petua,22.4143,88.4489,4892,Petua Crypto Miners
+India,Jai,28.9833,77.9333,8834,Jai Digital Mine
+Guinea,Conakry,9.5092,-13.7122,6197,Conakry Digital Mine
+United States,Noblesville,40.0355,-86.0042,1576,Noblesville Digital Mine
+Italy,Santa Croce sull’ Arno,43.7202,10.7727,1058,Santa Croce sull’ Arno Digital Mine
+Hungary,Zalaegerszeg,46.8392,16.8511,6477,Zalaegerszeg Blockchain Ltd
+Madagascar,Ambatolampy,-18.9,46.1167,4908,Ambatolampy Blockchain Ltd
+India,Vādippatti,10.0843,77.9634,8344,Vādippatti Digital Mine
+Nigeria,Okuta,9.2199,3.2005,1301,Okuta Blockchain Ltd
+United States,Havre,48.5427,-109.6804,5412,Havre Mining Co
+Romania,Bârlad,46.2167,27.6667,7743,Bârlad Blockchain Ltd
+Morocco,Taouz,30.9069,-3.9958,6852,Taouz Digital Mine
+Colombia,Fusagasugá,4.3452,-74.3618,5337,Fusagasugá Digital Mine
+Germany,Schwabmünchen,48.1789,10.755,8498,Schwabmünchen Mining Group
+India,Pathāri,23.9333,78.2167,7950,Pathāri Mining Co
+China,Longquan,40.3703,113.7483,2256,Longquan Mining Co
+Thailand,Sai Buri,6.7013,101.6167,5593,Sai Buri Mining Co
+Uganda,Kumi,1.4608,33.9361,5388,Kumi Crypto Miners
+Brazil,Piquet Carneiro,-5.8039,-39.4178,9137,Piquet Carneiro Blockchain Ltd
+India,Raghunāthpur,26.0019,84.2753,9451,Raghunāthpur Mining Co
+Mexico,China,25.7033,-99.2365,4631,China Digital Mine
+Algeria,Bir el Djir,35.7367,-0.5542,9608,Bir el Djir Mining Co
+United States,Bothell,47.7735,-122.2044,7061,Bothell Digital Mine
+United States,North Bellmore,40.6904,-73.539,3091,North Bellmore Mining Group
+United Kingdom,Barnstaple,51.08,-4.06,4833,Barnstaple Blockchain Ltd
+United States,Shenandoah,30.4019,-91.002,1162,Shenandoah Digital Mine
+India,Kanteru,16.3906,80.5425,7895,Kanteru Digital Mine
+Honduras,Iriona,15.9691,-85.0933,8823,Iriona Crypto Miners
+Hungary,Nagykáta,47.4178,19.7414,4789,Nagykáta Mining Group
+Cambodia,Chbar Mon,11.4533,104.5208,9154,Chbar Mon Digital Mine
+Spain,Almoradí,38.1097,-0.7894,1332,Almoradí Crypto Miners
+Russia,Mendeleyevsk,55.9,52.3333,1935,Mendeleyevsk Mining Co
+Egypt,Dayr as Sanqūrīyah,28.4868,30.6648,6563,Dayr as Sanqūrīyah Digital Mine
+United States,Clovis,34.4376,-103.1923,2249,Clovis Digital Mine
+Poland,Wałcz,53.2667,16.4667,5750,Wałcz Crypto Miners
+China,Zhedao,24.8193,98.2763,7581,Zhedao Crypto Miners
+Germany,Anröchte,51.5667,8.3333,5967,Anröchte Mining Co
+Bulgaria,Pomorie,42.5569,27.6405,4893,Pomorie Crypto Miners
+Congo (Kinshasa),Pepa,-7.7106,29.776,6333,Pepa Mining Group
+United States,Tarpon Springs,28.1493,-82.7623,8877,Tarpon Springs Mining Group
+United States,Kings Park West,38.8151,-77.296,4387,Kings Park West Crypto Miners
+El Salvador,Chiltiupán,13.5833,-89.4667,9744,Chiltiupán Crypto Miners
+Saudi Arabia,Tabūk,28.3972,36.5789,2095,Tabūk Blockchain Ltd
+Congo (Kinshasa),Basankusu,1.2222,19.8028,6177,Basankusu Digital Mine
+United States,Fairview Heights,38.5974,-90.0053,6405,Fairview Heights Mining Group
+Canada,Salaberry-de-Valleyfield,45.25,-74.13,7372,Salaberry-de-Valleyfield Crypto Miners
+India,Duvvūru,14.5507,79.8331,3279,Duvvūru Digital Mine
+United States,Chambersburg,39.9315,-77.6556,1530,Chambersburg Mining Group
+Turkey,Yumurtalık,36.7678,35.7922,1147,Yumurtalık Mining Group
+Lithuania,Širvintos,55.05,24.95,7238,Širvintos Mining Group
+India,Colgong,25.2633,87.2326,9693,Colgong Mining Group
+United States,Hanover,43.7156,-72.191,7739,Hanover Crypto Miners
+Egypt,Mallawī,27.7306,30.8425,8713,Mallawī Mining Co
+Germany,Schwaigern,49.1333,9.05,4816,Schwaigern Digital Mine
+United States,Jessup,39.1488,-76.7772,5665,Jessup Blockchain Ltd
+Japan,Iwakura,35.2794,136.8714,5998,Iwakura Digital Mine
+Nicaragua,El Crucero,11.9833,-86.3167,3709,El Crucero Crypto Miners
+France,Douai,50.3714,3.08,2549,Douai Mining Co
+India,Kolagallu,15.15,76.92,5107,Kolagallu Crypto Miners
+Madagascar,Belobaka,-18.995,45.6917,7917,Belobaka Blockchain Ltd
+Brazil,Juquiá,-24.3208,-47.6347,4677,Juquiá Blockchain Ltd
+Colombia,Remedios,7.0275,-74.6939,9676,Remedios Blockchain Ltd
+United Kingdom,Forfar,56.6442,-2.8884,8874,Forfar Mining Group
+Russia,Magdagachi,53.45,125.8,9724,Magdagachi Digital Mine
+India,Nellikkuppam,11.7667,79.6833,3936,Nellikkuppam Mining Co
+Ethiopia,Dolo Odo,4.1667,42.0667,6058,Dolo Odo Mining Group
+India,Pottipuram,9.9401,77.3213,3994,Pottipuram Mining Co
+Guatemala,San Felipe,14.6206,-91.5961,4079,San Felipe Mining Co
+Brazil,Jucati,-8.7058,-36.4889,2024,Jucati Blockchain Ltd
+Turkey,Çiftlikköy,40.65,29.3333,8038,Çiftlikköy Crypto Miners
+Sri Lanka,Dikwella South,5.9667,80.6833,5327,Dikwella South Mining Group
+Canada,Mont-Saint-Hilaire,45.5622,-73.1917,1600,Mont-Saint-Hilaire Blockchain Ltd
+India,Vennandūr,11.515,78.0908,7018,Vennandūr Mining Co
+Finland,Kajaani,64.2311,27.7194,5098,Kajaani Digital Mine
+Philippines,Santo Tomas,17.4,121.77,1289,Santo Tomas Mining Group
+Brazil,Santa Cruz do Capibaribe,-7.9573,-36.2047,5213,Santa Cruz do Capibaribe Digital Mine
+United States,Old Bridge,40.4004,-74.3126,5598,Old Bridge Mining Group
+Trinidad and Tobago,Carenage,10.6833,-61.6,3126,Carenage Mining Group
+Turkmenistan,Darganata,40.4833,62.1667,2200,Darganata Mining Group
+Brazil,Pedro Leopoldo,-19.6181,-44.0431,3028,Pedro Leopoldo Blockchain Ltd
+United States,Lake Arbor,38.9105,-76.8304,4517,Lake Arbor Crypto Miners
+United Kingdom,Earley,51.433,-0.933,1626,Earley Crypto Miners
+Iran,Mahdīshahr,35.7144,53.3569,8770,Mahdīshahr Crypto Miners
+Philippines,Lanuza,9.2322,126.0592,6005,Lanuza Mining Co
+El Salvador,Cuscatancingo,13.7333,-89.1833,2474,Cuscatancingo Crypto Miners
+China,Taiyangxi,30.85,111.0,8398,Taiyangxi Mining Co
+Mexico,Tlaxcala,19.3125,-98.24,4615,Tlaxcala Digital Mine
+Russia,Danilov,58.1833,40.1667,6745,Danilov Blockchain Ltd
+Czechia,Havlíčkŭv Brod,49.6078,15.5808,4493,Havlíčkŭv Brod Crypto Miners
+United States,Fairless Hills,40.1783,-74.8524,1906,Fairless Hills Digital Mine
+Azerbaijan,Badamdar,40.3394,49.8039,9064,Badamdar Mining Group
+Taiwan,Chenggong,23.1167,121.35,7385,Chenggong Digital Mine
+India,Asarganj,25.15,86.68,1458,Asarganj Mining Co
+Spain,La Algaba,37.45,-6.0,8473,La Algaba Crypto Miners
+India,Mauji,25.6585,86.2313,8199,Mauji Crypto Miners
+United States,Palm Desert,33.7378,-116.3695,3295,Palm Desert Mining Group
+Brazil,Poranga,-4.745,-40.9258,1055,Poranga Crypto Miners
+Italy,Bronte,37.8,14.8333,3398,Bronte Mining Group
+India,Shirva,13.2465,74.8444,9007,Shirva Blockchain Ltd
+Uzbekistan,Boyovut,40.2822,69.0183,7515,Boyovut Mining Group
+India,Vallahbhāpuram,16.3528,80.7175,4073,Vallahbhāpuram Crypto Miners
+Chile,Yungay,-37.1194,-72.0189,4198,Yungay Digital Mine
+India,Manchenahalli,13.5007,77.6035,5134,Manchenahalli Blockchain Ltd
+Mexico,Perote,19.5619,-97.2419,1113,Perote Blockchain Ltd
+China,Yibin,28.752,104.643,6526,Yibin Digital Mine
+India,Mumbai,19.0761,72.8775,1357,Mumbai Blockchain Ltd
+Brazil,Maracás,-13.4408,-40.4308,8824,Maracás Digital Mine
+Uganda,Bugiri,0.5694,33.7486,4108,Bugiri Digital Mine
+India,Murukondapādu,15.9174,80.4131,9068,Murukondapādu Mining Group
+Thailand,Ban Pong Tao,18.8333,99.95,8403,Ban Pong Tao Mining Co
+Madagascar,Ankirondro,-19.6453,44.593,6355,Ankirondro Mining Group
+Japan,Kamigōri,34.8667,134.35,4815,Kamigōri Blockchain Ltd
+Japan,Shiroi,35.7915,140.0563,1472,Shiroi Mining Co
+Philippines,Ajuy,11.1725,123.0196,7238,Ajuy Mining Co
+United States,West Whiteland,40.0227,-75.6239,5221,West Whiteland Mining Group
+China,Gonglang,24.8392,100.3122,3657,Gonglang Mining Co
+India,Holalu,14.8406,75.7144,1775,Holalu Crypto Miners
+Yemen,Dammāj,16.8939,43.8022,7136,Dammāj Mining Group
+Philippines,Labangan,7.8667,123.5167,7422,Labangan Crypto Miners
+India,Talapalli,18.1158,78.57,1170,Talapalli Mining Group
+India,Mahē,11.7011,75.5367,8858,Mahē Crypto Miners
+Moldova,Călăraşi,47.25,28.3,9521,Călăraşi Crypto Miners
+Guatemala,Granados,14.9139,-90.5233,5171,Granados Mining Group
+Kosovo,Malishevë,42.4822,20.7458,5410,Malishevë Mining Group
+India,Rattihalli,14.4167,75.5,1894,Rattihalli Blockchain Ltd
+United States,Hurst,32.8353,-97.1809,5140,Hurst Mining Co
+France,Chalon-sur-Saône,46.7806,4.8528,6897,Chalon-sur-Saône Digital Mine
+Philippines,Dagohoy,9.92,124.28,6101,Dagohoy Digital Mine
+Venezuela,Maiquetía,10.5958,-66.9772,9215,Maiquetía Blockchain Ltd
+Hungary,Érd,47.3833,18.9167,5046,Érd Crypto Miners
+India,Kalayapuram,9.0545,76.7696,6585,Kalayapuram Crypto Miners
+Libya,Awbārī,26.5833,12.7667,7349,Awbārī Crypto Miners
+Switzerland,Martigny,46.1022,7.075,7903,Martigny Digital Mine
+United Kingdom,Burgess Hill,50.9535,-0.1262,3851,Burgess Hill Digital Mine
+India,Raisāri,26.1319,87.0238,5185,Raisāri Digital Mine
+Italy,Settimo Torinese,45.1333,7.7667,6871,Settimo Torinese Mining Co
+Burma,Monywa,22.1083,95.1417,5723,Monywa Digital Mine
+Philippines,Paombong,14.8311,120.7892,6954,Paombong Mining Group
+Bolivia,Cliza,-17.6,-65.9333,9284,Cliza Digital Mine
+Côte d’Ivoire,Daoukro,7.0586,-3.9646,8869,Daoukro Digital Mine
+India,Tadangam,12.1056,78.1226,7718,Tadangam Crypto Miners
+Spain,Galapagar,40.5764,-4.0019,2266,Galapagar Digital Mine
+India,Karavalūr,8.9833,76.925,2905,Karavalūr Mining Group
+United States,Cedarburg,43.299,-87.9887,6413,Cedarburg Digital Mine
+China,Da’an,45.5,124.2833,9732,Da’an Digital Mine
+Morocco,Douar Souk L‘qolla,35.0718,-5.5702,9005,Douar Souk L‘qolla Crypto Miners
+Russia,Chita,52.05,113.4667,7005,Chita Blockchain Ltd
+Japan,Chigasaki,35.3333,139.4,2795,Chigasaki Blockchain Ltd
+Algeria,Beni Rached,36.2806,1.5161,5534,Beni Rached Mining Co
+United Kingdom,Mountsorrel,52.7167,-1.15,6130,Mountsorrel Crypto Miners
+Italy,Stradella,45.0833,9.3,7701,Stradella Blockchain Ltd
+United Kingdom,Eccles,53.4824,-2.339,8811,Eccles Crypto Miners
+Russia,Velikiy Novgorod,58.55,31.2667,7131,Velikiy Novgorod Crypto Miners
+United Kingdom,Merthyr Tudful,51.743,-3.378,9473,Merthyr Tudful Mining Group
+Italy,Venturina,43.0333,10.6,8231,Venturina Mining Co
+United States,Ogden,41.2279,-111.9682,5843,Ogden Crypto Miners
+Thailand,Mukdahan,16.5431,104.7228,3603,Mukdahan Blockchain Ltd
+Costa Rica,Quesada,10.3441,-84.4199,5679,Quesada Digital Mine
+India,Thakurainia,26.2098,86.0191,2926,Thakurainia Crypto Miners
+Mongolia,Uliastay,47.7428,96.8433,8844,Uliastay Blockchain Ltd
+Madagascar,Ambalajia,-17.4965,46.1206,9615,Ambalajia Digital Mine
+Kazakhstan,Alga,49.9028,57.3333,6952,Alga Digital Mine
+Germany,Iserlohn,51.3833,7.6667,9757,Iserlohn Digital Mine
+West Bank,Janīn,32.4594,35.3009,8867,Janīn Mining Co
+Sierra Leone,Bonthe,7.5264,-12.505,4119,Bonthe Crypto Miners
+Japan,Miura,35.15,139.6167,4653,Miura Mining Co
+Iran,Bahārestān,32.4867,51.7808,8945,Bahārestān Digital Mine
+Turkey,Erzurum,39.9086,41.2769,3069,Erzurum Mining Co
+United States,Westerville,40.1241,-82.921,2162,Westerville Mining Co
+Sierra Leone,Segbwema,7.9947,-10.9502,6055,Segbwema Mining Group
+Brazil,Tabatinga,-21.7169,-48.6878,4166,Tabatinga Digital Mine
+Timor-Leste,Gleno,-8.7239,125.4361,3209,Gleno Digital Mine
+Bulgaria,Avren,43.1139,27.6693,3123,Avren Digital Mine
+Italy,La Spezia,44.108,9.8289,5268,La Spezia Crypto Miners
+Czechia,Přelouč,50.04,15.5603,5538,Přelouč Mining Co
+Kenya,Sotik,-0.6796,35.12,4933,Sotik Blockchain Ltd
+Italy,Torre Santa Susanna,40.4667,17.7333,7766,Torre Santa Susanna Mining Group
+Argentina,Haedo,-34.65,-58.6,9593,Haedo Mining Group
+Mayotte,Ouangani,-12.8487,45.1446,2745,Ouangani Digital Mine
+Algeria,Oued el Kheïr,35.9503,0.3808,9248,Oued el Kheïr Crypto Miners
+Philippines,Malapatan,5.97,125.28,3075,Malapatan Digital Mine
+Brazil,Pedro Afonso,-8.9678,-48.175,2948,Pedro Afonso Crypto Miners
+Mauritania,Ksar,18.0995,-15.9574,3422,Ksar Blockchain Ltd
+India,Rāmpur Rajwa,25.7057,86.1781,5579,Rāmpur Rajwa Blockchain Ltd
+Japan,Etajima,34.2167,132.45,4242,Etajima Mining Co
+United Kingdom,Whickham,54.946,-1.6761,4984,Whickham Mining Co
+Philippines,Milagros,12.2192,123.5089,5888,Milagros Digital Mine
+United States,Garrison,39.4023,-76.7514,5594,Garrison Mining Group
+Germany,Leonberg,48.8014,9.0131,9401,Leonberg Blockchain Ltd
+Latvia,Jēkabpils,56.4975,25.8664,9858,Jēkabpils Mining Group
+Afghanistan,Aībak,36.2653,68.0167,6422,Aībak Blockchain Ltd
+France,Fondettes,47.405,0.5997,4968,Fondettes Crypto Miners
+Philippines,Lobo,13.6473,121.2104,3803,Lobo Digital Mine
+Japan,Mimasaka,35.0086,134.1486,1098,Mimasaka Mining Group
+Ukraine,Berezivka,47.2039,30.9128,2461,Berezivka Crypto Miners
+India,Battulapalle,14.5167,77.7833,8493,Battulapalle Digital Mine
+Germany,Osterburg,52.7833,11.7667,7964,Osterburg Crypto Miners
+Philippines,Dauis,9.625,123.865,9939,Dauis Mining Co
+Vietnam,Chợ Phước Hải,10.4283,107.2953,1132,Chợ Phước Hải Mining Group
+Japan,Seika,34.7608,135.7858,1900,Seika Mining Group
+India,Vorkādi,12.7598,74.9311,7418,Vorkādi Blockchain Ltd
+Thailand,Prachin Buri,14.0567,101.3739,3139,Prachin Buri Mining Group
+China,Kangbao,41.8511,114.6176,8832,Kangbao Mining Co
+Belgium,Grez-Doiceau,50.7333,4.7,9642,Grez-Doiceau Crypto Miners
+India,Poruvakara,9.0667,76.6333,1975,Poruvakara Mining Group
+Italy,Castelfranco di Sotto,43.7,10.75,4377,Castelfranco di Sotto Blockchain Ltd
+China,Lijiacha,37.2475,109.4103,1316,Lijiacha Crypto Miners
+Bangladesh,Dohazāri,22.1639,92.0733,2836,Dohazāri Mining Group
+United Kingdom,Port Talbot,51.5906,-3.7986,6805,Port Talbot Mining Co
+Sudan,Sannār,13.55,33.6,4695,Sannār Mining Co
+Philippines,Sibulan,9.35,123.28,8349,Sibulan Mining Group
+United States,Winnetka,42.1064,-87.7421,6578,Winnetka Blockchain Ltd
+United Kingdom,Northwich,53.259,-2.518,9140,Northwich Digital Mine
+United Kingdom,Dollis Hill,51.5641,-0.2341,3634,Dollis Hill Blockchain Ltd
+Philippines,Balayan,13.93,120.73,5060,Balayan Blockchain Ltd
+Madagascar,Sandrandahy,-20.3432,47.2976,5388,Sandrandahy Digital Mine
+India,Lohagaon,20.5988,77.6837,5347,Lohagaon Mining Co
+India,Dighāwāni,22.2061,78.8135,8204,Dighāwāni Crypto Miners
+Brazil,Cachoeira de Minas,-22.355,-45.7789,1005,Cachoeira de Minas Crypto Miners
+Cuba,Cotorro,23.0261,-82.2475,4312,Cotorro Mining Co
+United States,Front Royal,38.926,-78.1838,8309,Front Royal Crypto Miners
+Japan,Matsumoto,36.238,137.972,1369,Matsumoto Mining Co
+Cuba,Jamaica,22.9756,-82.1685,4263,Jamaica Blockchain Ltd
+China,Yushan,31.322,120.985,4306,Yushan Digital Mine
+China,Changji,26.9631,108.7331,6199,Changji Digital Mine
+Kenya,Port Victoria,0.0981,33.9725,7239,Port Victoria Crypto Miners
+China,Dongping,28.3817,111.2194,9449,Dongping Crypto Miners
+United States,Sugar Land,29.5935,-95.6358,8759,Sugar Land Crypto Miners
+Lebanon,Borj Hammoud,33.8936,35.5403,1554,Borj Hammoud Mining Group
+Japan,Iizuna,36.7548,138.2355,1901,Iizuna Crypto Miners
+Portugal,Marinha Grande,39.7478,-8.9322,9819,Marinha Grande Digital Mine
+Italy,Melzo,45.5,9.4167,2847,Melzo Digital Mine
+Tunisia,Sousse,35.8333,10.6333,8733,Sousse Blockchain Ltd
+Sweden,Norrtälje,59.7667,18.7,2988,Norrtälje Mining Co
+China,Geliping,26.5986,101.5483,9029,Geliping Crypto Miners
+United States,Methuen Town,42.734,-71.1889,9430,Methuen Town Crypto Miners
+Colombia,Santo Tomás,10.7667,-74.9167,3234,Santo Tomás Mining Group
+India,Shimla,31.1033,77.1722,6014,Shimla Mining Co
+Argentina,Reconquista,-29.2333,-59.9333,3466,Reconquista Digital Mine
+Congo (Kinshasa),Luanza,-8.6996,28.7,3452,Luanza Mining Group
+France,Nemours,48.2674,2.697,2698,Nemours Mining Co
+Italy,Orzinuovi,45.4,9.9333,6442,Orzinuovi Mining Group
+Spain,Rute,37.3167,-4.3667,1512,Rute Mining Group
+Ukraine,Sudak,44.8514,34.9725,1220,Sudak Mining Co
+India,Khiram,33.732,75.16,3327,Khiram Mining Group
+Uruguay,Treinta y Tres,-33.2333,-54.3833,8249,Treinta y Tres Mining Group
+Venezuela,Petare,10.4833,-66.8167,4136,Petare Crypto Miners
+Morocco,Msila,35.2,-5.5667,4845,Msila Blockchain Ltd
+Denmark,Sæby,57.3319,10.5225,5212,Sæby Mining Group
+Uganda,Busembatia,0.775,33.625,3719,Busembatia Crypto Miners
+Tajikistan,Kosatarosh,39.4,67.75,4270,Kosatarosh Blockchain Ltd
+United Kingdom,Kippax,53.7669,-1.3705,2071,Kippax Mining Co
+United States,Tanque Verde,32.2687,-110.7437,7970,Tanque Verde Blockchain Ltd
+Brazil,Turmalina,-17.2856,-42.73,6567,Turmalina Mining Group
+Netherlands,Haarlem,52.3833,4.6333,2770,Haarlem Digital Mine
+Turkey,Talas,38.6833,35.5667,5808,Talas Mining Co
+Morocco,Douar Oulad Bouziane,34.2325,-5.0444,8237,Douar Oulad Bouziane Crypto Miners
+Saudi Arabia,Ḑubā,27.3513,35.6901,9063,Ḑubā Mining Group
+China,Jinjiang,19.7288,110.0085,8085,Jinjiang Mining Co
+New Zealand,Paraparaumu Beach,-40.888,174.983,3884,Paraparaumu Beach Mining Co
+North Macedonia,Radoviš,41.6381,22.4644,5994,Radoviš Mining Group
+Uganda,Amuru,2.8186,31.8642,7421,Amuru Mining Co
+United States,Leavenworth,39.3239,-94.924,8766,Leavenworth Mining Group
+Tunisia,Hammamet,36.4,10.6167,7611,Hammamet Blockchain Ltd
+Belgium,Dour,50.3979,3.7807,9797,Dour Mining Co
+Canada,Pickering,43.8354,-79.089,3443,Pickering Mining Group
+United States,American Fork,40.3783,-111.7953,2679,American Fork Digital Mine
+Nicaragua,Boaco,12.4667,-85.6667,1181,Boaco Digital Mine
+Tunisia,Monastir,35.7694,10.8194,7990,Monastir Mining Co
+Algeria,Megarine,33.1944,6.0944,8026,Megarine Blockchain Ltd
+United States,Valrico,27.9193,-82.2293,2066,Valrico Digital Mine
+Croatia,Osijek,45.5603,18.6703,5926,Osijek Mining Co
+El Salvador,La Palma,14.3167,-89.1667,5014,La Palma Blockchain Ltd
+Brazil,Montanha,-18.1269,-40.3628,1700,Montanha Blockchain Ltd
+India,Chintalapalli,18.331,79.674,5591,Chintalapalli Digital Mine
+Burma,Thanatpin,17.2942,96.58,8444,Thanatpin Crypto Miners
+Philippines,Iguig,17.7517,121.7364,8824,Iguig Blockchain Ltd
+India,Kāyalpattanam,8.5638,78.1246,6938,Kāyalpattanam Mining Co
+Brazil,Aracoiaba,-4.3708,-38.8139,8202,Aracoiaba Mining Group
+Brazil,São Sebastião do Uatumã,-2.5719,-57.8708,4216,São Sebastião do Uatumã Mining Co
+United States,Pittsgrove,39.5404,-75.1291,2311,Pittsgrove Mining Co
+Venezuela,La Esmeralda,3.1739,-65.5467,8660,La Esmeralda Mining Co
+Pakistan,Sahiwal,30.6611,73.1083,2302,Sahiwal Mining Co
+India,Pallappālaiyam,10.9951,77.0845,6897,Pallappālaiyam Blockchain Ltd
+India,Babhniyāwān,25.4943,84.4815,9431,Babhniyāwān Mining Group
+Nicaragua,Nandasmo,11.9333,-86.1167,8322,Nandasmo Mining Group
+Côte d’Ivoire,Odienné,9.5,-7.5667,9777,Odienné Crypto Miners
+Brazil,Porteirinha,-15.7428,-43.0278,4613,Porteirinha Crypto Miners
+Argentina,Colón,-33.8833,-61.1,6900,Colón Mining Co
+Eswatini,Lavumisa,-27.2962,31.9,3067,Lavumisa Crypto Miners
+Philippines,Panglao,9.579,123.745,9555,Panglao Blockchain Ltd
+Jamaica,Port Antonio,18.1757,-76.4503,3028,Port Antonio Mining Co
+Slovakia,Trenčín,48.8919,18.0367,1392,Trenčín Digital Mine
+Spain,Sonseca,39.7,-3.95,1332,Sonseca Mining Group
+Philippines,Payao,7.5857,122.8022,1462,Payao Crypto Miners
+Mali,Djidian Kéniéba,13.0975,-11.3953,5503,Djidian Kéniéba Blockchain Ltd
+France,Saint-Germain-en-Laye,48.8989,2.0938,4778,Saint-Germain-en-Laye Blockchain Ltd
+Peru,Huaraz,-9.5333,-77.5333,3092,Huaraz Digital Mine
+India,Kodala,19.6243,84.9408,8163,Kodala Mining Co
+Thailand,Chom Thong,18.4901,98.6747,5871,Chom Thong Digital Mine
+Bangladesh,Jālākāti,22.6409,90.1988,2159,Jālākāti Digital Mine
+Brazil,Andirá,-23.0508,-50.2289,1569,Andirá Blockchain Ltd
+El Salvador,San José Villanueva,13.5833,-89.2667,9513,San José Villanueva Mining Group
+United States,Burien,47.4762,-122.3394,9367,Burien Blockchain Ltd
+Turkey,Suluova,40.8333,35.65,9170,Suluova Mining Co
+Poland,Choszczno,53.1667,15.4,4451,Choszczno Crypto Miners
+Germany,Heiden,51.8258,6.9331,8963,Heiden Digital Mine
+United States,Kingston,41.9295,-73.9968,3480,Kingston Digital Mine
+India,Kosigi,15.85,77.2667,6901,Kosigi Mining Co
+Saudi Arabia,Al Aḩad al Masāriḩah,16.7098,42.955,8382,Al Aḩad al Masāriḩah Mining Co
+Haiti,Terre Neuve,19.6,-72.7833,8855,Terre Neuve Digital Mine
+Poland,Prudnik,50.3228,17.5767,1311,Prudnik Mining Co
+Germany,Immenstadt im Allgäu,47.5667,10.2167,1360,Immenstadt im Allgäu Crypto Miners
+Ethiopia,Āzezo,12.5586,37.4308,6338,Āzezo Mining Group
+Brazil,Correntes,-9.1289,-36.33,5265,Correntes Crypto Miners
+India,Sheikhpura,25.1403,85.8508,4972,Sheikhpura Mining Group
+India,Udayagiri,20.1242,84.3687,3933,Udayagiri Mining Co
+Saudi Arabia,Al Ghāţ,26.0289,44.9469,8993,Al Ghāţ Mining Group
+Philippines,Oslob,9.55,123.4,2006,Oslob Digital Mine
+Canada,Tottenham,44.0238,-79.8045,3277,Tottenham Crypto Miners
+India,Khāspur,25.6466,84.9936,8570,Khāspur Blockchain Ltd
+Algeria,Bouskene,36.1833,3.2333,5524,Bouskene Digital Mine
+India,Sultanpur,31.2235,75.2041,6598,Sultanpur Mining Group
+Nicaragua,Granada,11.9333,-85.95,3272,Granada Digital Mine
+United States,Hillsboro,45.5273,-122.936,5945,Hillsboro Mining Co
+Portugal,Penacova,40.2667,-8.2667,3159,Penacova Crypto Miners
+"Korea, South",Eumseong,36.9353,127.6897,1617,Eumseong Blockchain Ltd
+India,Chelora,11.8892,75.4293,7013,Chelora Crypto Miners
+Spain,Santa Marta de Tormes,40.9494,-5.6325,9096,Santa Marta de Tormes Mining Co
+United States,Brandon,27.9367,-82.3,7874,Brandon Mining Group
+Jersey,Saint Helier,49.1858,-2.11,4463,Saint Helier Blockchain Ltd
+India,Alwa Tirunagari,8.61,77.94,5803,Alwa Tirunagari Mining Group
+United States,Jacksonville,39.7292,-90.2317,9011,Jacksonville Mining Group
+Uganda,Agago,2.9847,33.3306,6209,Agago Mining Group
+Belgium,Liedekerke,50.8667,4.0833,8089,Liedekerke Crypto Miners
+Japan,Fuji,35.1613,138.6763,6982,Fuji Blockchain Ltd
+India,Kadwa,25.0316,84.0924,5510,Kadwa Mining Group
+India,Dhakaich,25.5835,84.1886,6557,Dhakaich Digital Mine
+Canada,Sainte-Thérèse,45.6333,-73.85,7977,Sainte-Thérèse Digital Mine
+United States,Palmer,40.7007,-75.2628,7767,Palmer Mining Group
+India,Rāmagiri Udayagiri,19.1619,84.144,3587,Rāmagiri Udayagiri Crypto Miners
+United States,Athol,42.5841,-72.2177,9224,Athol Mining Group
+Colombia,Obando,4.5833,-75.9167,2876,Obando Digital Mine
+United Kingdom,Selston,53.07,-1.3,7599,Selston Mining Group
+India,Alawandi,15.2303,75.9801,2387,Alawandi Digital Mine
+Switzerland,Affoltern am Albis,47.2817,8.4502,8833,Affoltern am Albis Blockchain Ltd
+India,Chittaranjan,23.87,86.87,5394,Chittaranjan Crypto Miners
+France,Angers,47.4736,-0.5542,6393,Angers Crypto Miners
+India,Garhpura,25.6638,86.1818,7616,Garhpura Crypto Miners
+El Salvador,Antiguo Cuscatlán,13.6731,-89.2406,1248,Antiguo Cuscatlán Mining Co
+Peru,Jaén,-5.7083,-78.8083,7519,Jaén Mining Group
+Madagascar,Ambalavao,-21.8295,46.9402,6005,Ambalavao Digital Mine
+Laos,Salavan,15.7167,106.4167,4951,Salavan Crypto Miners
+Germany,Eppstein,50.1333,8.4,3058,Eppstein Crypto Miners
+India,Baruāri,26.0305,86.5965,4782,Baruāri Blockchain Ltd
+Brazil,Tabatinga,-4.2312,-69.9386,4824,Tabatinga Crypto Miners
+Morocco,Laatatra,32.6315,-8.4148,7619,Laatatra Mining Group
+North Macedonia,Obleševo,41.8833,22.3339,9250,Obleševo Mining Co
+Czechia,Český Těšín,49.7461,18.6261,5962,Český Těšín Mining Group
+India,Vandiyūr,9.9092,78.1609,2291,Vandiyūr Mining Co
+Israel,Hadera,32.45,34.9167,6961,Hadera Mining Group
+China,Baiji,26.1041,106.99,8279,Baiji Mining Co
+Azerbaijan,Samux,40.7642,46.4083,1238,Samux Blockchain Ltd
+India,Bāgewādi,16.29,74.6,6619,Bāgewādi Mining Co
+Italy,Iesi,43.5228,13.2439,1275,Iesi Crypto Miners
+Dominican Republic,Pantanal,18.5586,-68.3694,4563,Pantanal Digital Mine
+Argentina,Henderson,-36.2833,-61.7167,2078,Henderson Blockchain Ltd
+Brazil,Santo Antônio do Içá,-3.1019,-67.94,3072,Santo Antônio do Içá Blockchain Ltd
+United States,Storrs,41.8083,-72.2514,3878,Storrs Crypto Miners
+Madagascar,Befasy,-20.5779,44.36,5852,Befasy Digital Mine
+Japan,Sano,36.3145,139.5783,8363,Sano Mining Group
+Chile,Olmué,-32.9953,-71.1856,2807,Olmué Mining Group
+Spain,Tolosa,43.1333,-2.0833,4146,Tolosa Digital Mine
+India,Chāpalamadugu,16.073,79.3775,5805,Chāpalamadugu Mining Co
+Poland,Bukowno,50.2681,19.4631,7168,Bukowno Crypto Miners
+United States,St. Petersburg,27.7931,-82.6652,9543,St. Petersburg Mining Co
+United Kingdom,Ramsbottom,53.6483,-2.3167,1126,Ramsbottom Digital Mine
+India,Corgao,15.7096,73.7497,7281,Corgao Crypto Miners
+India,Khutauna,26.4969,86.3959,2568,Khutauna Digital Mine
+Ukraine,Stryi,49.25,23.85,7243,Stryi Digital Mine
+China,Quanzhang,35.6576,111.0838,4440,Quanzhang Blockchain Ltd
+Madagascar,Mahela,-20.9687,48.4412,7930,Mahela Crypto Miners
+Slovenia,Gornja Radgona,46.681,15.9883,7045,Gornja Radgona Blockchain Ltd
+India,Kalpakathukonam,8.8325,76.7453,8473,Kalpakathukonam Mining Co
+Italy,Castiglione delle Stiviere,45.4,10.5,1723,Castiglione delle Stiviere Crypto Miners
+Germany,Dorfen,48.2667,12.15,7988,Dorfen Blockchain Ltd
+United States,Barnstable,41.6655,-70.3639,2781,Barnstable Digital Mine
+Philippines,Central Signal Village,14.5115,121.0563,5839,Central Signal Village Mining Group
+India,Dahi,22.1122,74.5879,3195,Dahi Blockchain Ltd
+United Kingdom,Chesham,51.712,-0.612,8879,Chesham Blockchain Ltd
+China,Shangxiao,35.4969,107.4914,8667,Shangxiao Blockchain Ltd
+Ukraine,Novodnistrovsk,48.5778,27.4414,7817,Novodnistrovsk Mining Co
+Colombia,Guática,5.3167,-75.8,6850,Guática Mining Co
+Burma,Katha,24.1822,96.3306,3926,Katha Mining Group
+India,Kazhukambalam,10.0333,76.4,4486,Kazhukambalam Mining Group
+Kenya,Kilifi,-3.6333,39.85,8214,Kilifi Blockchain Ltd
+United States,Fortuna Foothills,32.6616,-114.3974,3359,Fortuna Foothills Blockchain Ltd
+Mexico,Jalacingo,19.6,-97.2167,5123,Jalacingo Digital Mine
+United States,Woolwich,39.74,-75.317,5315,Woolwich Digital Mine
+Bulgaria,Veliki Preslav,43.1667,26.8167,8916,Veliki Preslav Digital Mine
+Brazil,Colorado,-22.8378,-51.9728,5949,Colorado Mining Co
+Brazil,Iaçu,-12.7669,-40.2119,2936,Iaçu Blockchain Ltd
+China,Leshou,38.1822,116.1108,7031,Leshou Blockchain Ltd
+Egypt,Fāraskūr,31.3297,31.7147,7302,Fāraskūr Mining Group
+United States,Wapakoneta,40.5664,-84.1916,9091,Wapakoneta Crypto Miners
+Germany,Brake,53.3333,8.4833,6851,Brake Blockchain Ltd
+Portugal,Óbidos,39.362,-9.1571,4792,Óbidos Mining Group
+Cambodia,Takeo,10.9833,104.7833,8504,Takeo Blockchain Ltd
+Yemen,Sanaa,15.3483,44.2064,1086,Sanaa Mining Co
+United Kingdom,Denbigh,53.1854,-3.4178,7352,Denbigh Mining Group
+Belgium,Anderlues,50.4073,4.2698,4909,Anderlues Digital Mine
+Norway,Steinkjer,64.0147,11.4942,6935,Steinkjer Crypto Miners
+Mexico,Lototla,20.8392,-98.7178,8367,Lototla Mining Co
+Italy,Piazza Armerina,37.3833,14.3667,9974,Piazza Armerina Mining Co
+Switzerland,Wohleiberg,46.9719,7.3569,1739,Wohleiberg Mining Group
+Iran,Khorramdarreh,36.2061,49.2003,3619,Khorramdarreh Mining Co
+Tanzania,Musoma,-1.5,33.8,8578,Musoma Blockchain Ltd
+Burma,Wakema,16.6,95.1833,7963,Wakema Mining Group
+Paraguay,Mariano Roque Alonso,-25.2079,-57.532,6961,Mariano Roque Alonso Crypto Miners
+Mexico,Minatitlán,17.9833,-94.55,2030,Minatitlán Digital Mine
+Mexico,Los Reyes de Salgado,19.5833,-102.4667,9593,Los Reyes de Salgado Crypto Miners
+United States,Wichita,37.6895,-97.3443,8697,Wichita Crypto Miners
+United States,Pekin,40.5678,-89.6251,2977,Pekin Blockchain Ltd
+Germany,Rendsburg,54.3,9.6667,2605,Rendsburg Blockchain Ltd
+New Zealand,Te Anau,-45.415,167.716,4773,Te Anau Digital Mine
+Mali,Niagadina,12.1339,-8.2289,4848,Niagadina Mining Co
+Timor-Leste,Pante Macassar,-9.2,124.3833,9957,Pante Macassar Crypto Miners
+Mexico,Coycoyan de las Flores,17.2667,-98.2667,7793,Coycoyan de las Flores Mining Group
+Spain,Santa Brígida,28.0338,-15.4998,1879,Santa Brígida Mining Group
+India,Dhaula,30.2856,75.4602,5170,Dhaula Digital Mine
+Japan,Nisshin,35.132,137.0394,5096,Nisshin Crypto Miners
+Ireland,Killiney,53.2651,-6.1137,5664,Killiney Crypto Miners
+Colombia,Malambo,10.85,-74.75,4334,Malambo Blockchain Ltd
+Mali,Niamina,13.3131,-6.9831,7668,Niamina Mining Co
+Brazil,Rosário,-2.9339,-44.235,6347,Rosário Mining Group
+Philippines,Oras,12.1414,125.4392,7578,Oras Blockchain Ltd
+Vietnam,Móng Cái,21.5333,107.9667,4746,Móng Cái Crypto Miners
+Colombia,Agustín Codazzi,10.0367,-73.2369,9813,Agustín Codazzi Mining Co
+India,Ūttukkottai,13.3354,79.898,7797,Ūttukkottai Digital Mine
+United States,Gardner,38.8122,-94.9275,1047,Gardner Digital Mine
+Chile,Cuya,-19.1597,-70.1794,4190,Cuya Blockchain Ltd
+Kazakhstan,Burubaytal,44.935,74.018,9688,Burubaytal Crypto Miners
+Japan,Sayama,34.5036,135.5557,7120,Sayama Crypto Miners
+United Kingdom,Canterbury,51.28,1.08,9188,Canterbury Blockchain Ltd
+Poland,Gorzów Wielkopolski,52.7333,15.25,9923,Gorzów Wielkopolski Mining Group
+United States,New Kensington,40.5712,-79.7523,5352,New Kensington Mining Co
+Brazil,Brasilândia,-17.0087,-46.0086,5801,Brasilândia Crypto Miners
+Benin,Malanville,11.8667,3.3833,2252,Malanville Mining Co
+Mexico,Eloxochitlán,18.5088,-96.9227,3865,Eloxochitlán Mining Group
+Thailand,Kanchanaburi,14.0194,99.5311,5478,Kanchanaburi Digital Mine
+Philippines,Madrid,9.2619,125.9647,9531,Madrid Digital Mine
+Central African Republic,Birao,10.294,22.782,3744,Birao Mining Co
+Madagascar,Ankavandra,-18.7717,45.2935,3915,Ankavandra Blockchain Ltd
+Philippines,San Miguel,14.6,121.0,8059,San Miguel Mining Group
+Japan,Isumi,35.2539,140.3852,5343,Isumi Mining Co
+United Kingdom,Coventry,52.4081,-1.5106,1762,Coventry Mining Co
+Netherlands,Stein,50.9679,5.7652,8326,Stein Mining Co
+Madagascar,Ambatoharanana,-17.3424,49.1186,1617,Ambatoharanana Mining Co
+United States,Bayonet Point,28.3254,-82.6834,3246,Bayonet Point Mining Co
+Colombia,Córdoba,9.5867,-74.8272,5900,Córdoba Crypto Miners
+United States,Eden Prairie,44.8488,-93.4595,2411,Eden Prairie Crypto Miners
+Austria,Guntramsdorf,48.05,16.3167,9223,Guntramsdorf Blockchain Ltd
+Madagascar,Betrandraka,-17.0365,47.5524,3816,Betrandraka Mining Group
+Philippines,Carigara,11.3,124.68,2012,Carigara Mining Group
+Finland,Kirkkonummi,60.1167,24.4333,5296,Kirkkonummi Crypto Miners
+United States,Macon,32.8065,-83.6974,5687,Macon Blockchain Ltd
+Argentina,Balcarce,-37.8456,-58.2578,3659,Balcarce Mining Group
+Brazil,Goianinha,-6.2669,-35.21,5379,Goianinha Digital Mine
+Cuba,Guane,22.2006,-84.0839,3257,Guane Mining Co
+India,Bijni,26.4959,90.703,6289,Bijni Blockchain Ltd
+China,Tangbian,25.6539,106.7793,8526,Tangbian Mining Co
+Germany,Höchberg,49.7831,9.8817,6745,Höchberg Blockchain Ltd
+United States,North Port,27.0576,-82.1977,3747,North Port Mining Co
+India,Vayakkalattu,8.5285,77.1035,1082,Vayakkalattu Mining Co
+Ghana,Apam,5.279,-0.7397,2655,Apam Mining Group
+Gabon,Oyem,1.6,11.5736,5145,Oyem Mining Group
+India,Puduparambubhāgam,9.6,76.74,6405,Puduparambubhāgam Crypto Miners
+Ukraine,Truskavets,49.2806,23.505,8446,Truskavets Mining Group
+Brazil,Leopoldo de Bulhões,-16.6189,-48.7439,8998,Leopoldo de Bulhões Mining Group
+Netherlands,Tynaarlo,53.0833,6.6,3223,Tynaarlo Mining Co
+United States,Lake Butler,28.4862,-81.546,8236,Lake Butler Blockchain Ltd
+India,Potunūru,16.7442,81.2206,2561,Potunūru Crypto Miners
+Italy,Casalpusterlengo,45.1778,9.65,7518,Casalpusterlengo Blockchain Ltd
+Philippines,Suyo,16.9839,120.5139,9817,Suyo Mining Co
+Czechia,Litvínov,50.6008,13.6111,6151,Litvínov Mining Co
+France,Saint-Hilaire-de-Riez,46.7219,-1.9442,6326,Saint-Hilaire-de-Riez Blockchain Ltd
+Italy,Volpiano,45.2,7.7833,4441,Volpiano Digital Mine
+Colombia,Cisneros,6.5383,-75.0886,7779,Cisneros Blockchain Ltd
+United States,Sanford,28.7891,-81.2757,4845,Sanford Digital Mine
+Serbia,Mladenovac,44.4418,20.697,7736,Mladenovac Mining Co
+China,Anguo,38.418,115.327,4716,Anguo Digital Mine
+Syria,Az Zabadānī,33.7249,36.1005,5592,Az Zabadānī Crypto Miners
+Brazil,São Lourenço da Serra,-23.8528,-46.9428,6033,São Lourenço da Serra Mining Group
+Russia,Zavodoukovsk,56.4833,66.5333,6334,Zavodoukovsk Digital Mine
+India,Bendapūdi,17.2673,82.3758,4107,Bendapūdi Mining Group
+Algeria,Tadmaït,36.75,3.9,4430,Tadmaït Crypto Miners
+India,Qatlūpur,28.7733,77.1593,7099,Qatlūpur Digital Mine
+India,Madhupur,24.7,83.02,6801,Madhupur Blockchain Ltd
+India,Kizhake Chālakudi,10.3,76.33,9670,Kizhake Chālakudi Crypto Miners
+Germany,Süchteln,51.2833,6.3833,3203,Süchteln Mining Co
+United States,Katy,29.7905,-95.8353,7942,Katy Crypto Miners
+India,Kallūr,17.2,80.55,9226,Kallūr Mining Co
+Portugal,Aljustrel,37.8775,-8.1653,3375,Aljustrel Mining Group
+China,Shendang Tingzi,30.5783,120.8193,4301,Shendang Tingzi Blockchain Ltd
+Bosnia and Herzegovina,Maglaj,44.5478,18.1,5553,Maglaj Mining Co
+Algeria,Rouissat,31.9167,5.35,6732,Rouissat Digital Mine
+Netherlands,Woudenberg,52.0806,5.4164,9020,Woudenberg Blockchain Ltd
+Turkey,Adıyaman,37.7639,38.2778,7663,Adıyaman Digital Mine
+United Kingdom,Abergavenny,51.824,-3.0167,9415,Abergavenny Digital Mine
+Mexico,Contla,19.3333,-98.1667,4481,Contla Mining Group
+Russia,Aznakayevo,54.85,53.1,3037,Aznakayevo Blockchain Ltd
+United Kingdom,Narborough,52.5727,-1.2023,6830,Narborough Blockchain Ltd
+India,Nalakadoddi,15.4,77.5167,3529,Nalakadoddi Mining Co
+India,Muttatōdi,12.5417,75.0194,9139,Muttatōdi Crypto Miners
+India,Balua,26.3272,87.6231,2217,Balua Mining Group
+Congo (Brazzaville),Mouyondzi,-3.9956,13.9219,7827,Mouyondzi Crypto Miners
+Italy,Villacidro,39.4578,8.7424,7935,Villacidro Digital Mine
+Argentina,Formosa,-26.1833,-58.1833,1448,Formosa Mining Co
+United States,Kingston,41.9862,-70.7482,4288,Kingston Digital Mine
+Russia,Stupino,54.8833,38.1,8922,Stupino Crypto Miners
+United States,Yuba City,39.1357,-121.6383,2022,Yuba City Blockchain Ltd
+India,Mārathalli,12.15,77.1,3265,Mārathalli Mining Group
+India,Barharwā,24.8571,87.779,2428,Barharwā Crypto Miners
+Argentina,Pergamino,-33.8833,-60.5667,4714,Pergamino Digital Mine
+China,Xingang,28.9294,112.316,5965,Xingang Mining Co
+Turkey,Çumra,37.575,32.7747,2154,Çumra Digital Mine
+India,Udburu,23.0333,85.3667,6442,Udburu Mining Co
+India,Lalganj,26.1277,80.7855,7106,Lalganj Crypto Miners
+India,Darmahā,26.3663,84.9312,5171,Darmahā Mining Co
+India,Dhrol,22.57,70.42,7631,Dhrol Mining Group
+India,Tiruppūr,11.1085,77.3411,9326,Tiruppūr Digital Mine
+Iraq,Sayyid Şādiq,35.35,45.8667,4057,Sayyid Şādiq Digital Mine
+Bolivia,Tupiza,-21.4375,-65.7158,7124,Tupiza Mining Group
+India,Pirakkād,9.35,76.35,1961,Pirakkād Digital Mine
+Kyrgyzstan,Gülbaar,40.4874,72.6525,2034,Gülbaar Digital Mine
+India,Kāvali,14.913,79.9929,5993,Kāvali Mining Co
+Cambodia,Preah Vihear,13.8047,104.9783,3000,Preah Vihear Digital Mine
+El Salvador,Concepción Quezaltepeque,14.0833,-88.95,1078,Concepción Quezaltepeque Digital Mine
+India,Pararia,26.34,87.5896,9703,Pararia Blockchain Ltd
+Ukraine,Dubno,50.3931,25.735,1608,Dubno Mining Co
+India,Mahālgaon,26.0466,87.5774,3519,Mahālgaon Blockchain Ltd
+India,Antri,26.0581,78.21,9984,Antri Blockchain Ltd
+Philippines,Mendez-Nuñez,14.1286,120.9058,8383,Mendez-Nuñez Crypto Miners
+India,Narasingam,9.9658,78.1833,9356,Narasingam Mining Co
+India,Khandpara,20.2644,85.1767,4477,Khandpara Crypto Miners
+United States,Meridian,32.3846,-88.6896,7259,Meridian Blockchain Ltd
+Vietnam,Tân An,10.905,106.6994,5817,Tân An Crypto Miners
+China,Xixinzhuangzhen,37.0165,111.4908,3631,Xixinzhuangzhen Digital Mine
+Algeria,Jean-Mermoz,35.5606,-0.0844,9885,Jean-Mermoz Mining Group
+India,Pāppākurichchi,10.8137,78.7481,5045,Pāppākurichchi Digital Mine
+United States,French Valley,33.5999,-117.1069,2900,French Valley Mining Group
+India,Sunām,30.13,75.8,1759,Sunām Blockchain Ltd
+China,Huanglongsi,34.795,114.345,9013,Huanglongsi Mining Group
+Belgium,Drongen,51.0503,3.6628,9743,Drongen Mining Co
+Italy,Porto Sant’Elpidio,43.2586,13.7585,2731,Porto Sant’Elpidio Digital Mine
+Mexico,Teotlaltzingo,19.2333,-98.4833,1473,Teotlaltzingo Mining Group
+Mali,Da,13.16,-4.9111,9451,Da Digital Mine
+Benin,Fô-Bouré,10.1167,2.4,1307,Fô-Bouré Mining Co
+Japan,Nanyō,38.0551,140.1476,9833,Nanyō Blockchain Ltd
+Madagascar,Sahambala,-17.9199,49.1574,9663,Sahambala Mining Group
+United States,Gilbert,33.31,-111.7463,2542,Gilbert Mining Group
+Russia,Rybnoye,54.7333,39.5167,9411,Rybnoye Mining Co
+Brazil,Angra dos Reis,-23.0069,-44.3178,2082,Angra dos Reis Mining Co
+Brazil,Marechal Cândido Rondon,-24.5561,-54.0567,6321,Marechal Cândido Rondon Mining Co
+Brazil,Milhã,-5.675,-39.1939,8581,Milhã Digital Mine
+India,Fatehābād,31.3811,75.0996,9240,Fatehābād Blockchain Ltd
+United States,Meadowbrook,37.4301,-77.474,3614,Meadowbrook Blockchain Ltd
+Japan,Oyabe,36.6755,136.8687,8304,Oyabe Blockchain Ltd
+United States,Soddy-Daisy,35.2571,-85.1739,1698,Soddy-Daisy Digital Mine
+Serbia,Bor,44.1303,22.1036,5144,Bor Mining Co
+India,Lingsugūr,16.17,76.52,5555,Lingsugūr Mining Group
+Mexico,Juárez,31.745,-106.485,7422,Juárez Crypto Miners
+Spain,Cuéllar,41.4009,-4.3136,7731,Cuéllar Crypto Miners
+United Kingdom,Fenton,52.9977,-2.1578,2591,Fenton Crypto Miners
+Germany,Radebeul,51.1,13.65,9984,Radebeul Crypto Miners
+China,Jiaxing,30.747,120.756,1306,Jiaxing Blockchain Ltd
+India,Sewāi,23.6175,85.6783,5312,Sewāi Blockchain Ltd
+Brazil,Pontal do Paraná,-25.5768,-48.3581,8829,Pontal do Paraná Blockchain Ltd
+India,Raurkela,22.2492,84.8828,5182,Raurkela Mining Group
+Portugal,Alijó,41.2764,-7.4749,8706,Alijó Blockchain Ltd
+India,Kodriva,22.5342,75.7725,2473,Kodriva Digital Mine
+United States,Belmont,39.0622,-77.4985,6797,Belmont Digital Mine
+India,Sobhāpur,22.7737,78.2638,6257,Sobhāpur Blockchain Ltd
+India,Vemulapūdi,17.6087,82.6138,1999,Vemulapūdi Mining Group
+United States,Monroe,39.4461,-84.3667,6354,Monroe Blockchain Ltd
+"Korea, South",Sihŭng,37.3799,126.8029,2567,Sihŭng Digital Mine
+Algeria,Mazagran,35.9019,0.7269,8090,Mazagran Crypto Miners
+India,Thāna Bhawan,29.5833,77.4167,8783,Thāna Bhawan Crypto Miners
+Brazil,Santa Isabel,-23.3156,-46.2214,4183,Santa Isabel Blockchain Ltd
+United States,Gulfport,27.7463,-82.7099,8569,Gulfport Crypto Miners
+India,Laukāha,26.55,86.47,6073,Laukāha Blockchain Ltd
+Madagascar,Soamanandrariny,-19.651,47.2792,9090,Soamanandrariny Digital Mine
+United States,Lancaster,34.7248,-80.7804,6560,Lancaster Blockchain Ltd
+Ukraine,Tarashcha,49.55,30.5,9232,Tarashcha Mining Co
+France,Quincy-sous-Sénart,48.6714,2.5407,6231,Quincy-sous-Sénart Blockchain Ltd
+Russia,Ostrov,57.35,28.35,1166,Ostrov Crypto Miners
+Germany,Nideggen,50.7,6.4833,5589,Nideggen Mining Co
+Morocco,Za’roura,35.2167,-5.6667,9174,Za’roura Mining Group
+Venezuela,Santa Ana,9.3056,-64.6548,2464,Santa Ana Blockchain Ltd
+Spain,Poyo,42.4333,-8.6667,1481,Poyo Crypto Miners
+India,Nauhata,25.9971,86.4887,6249,Nauhata Digital Mine
+Russia,Vilyuysk,63.75,121.6333,2709,Vilyuysk Mining Co
+Finland,Pargas,60.3,22.3,3943,Pargas Blockchain Ltd
+Morocco,Ajdir,34.7443,-3.9735,1845,Ajdir Crypto Miners
+Brazil,Ouroeste,-20.0008,-50.3719,1764,Ouroeste Crypto Miners
+Yemen,Al Mukallā,14.5333,49.1333,4266,Al Mukallā Mining Co
+Belgium,Heverlee,50.86,4.69,8512,Heverlee Blockchain Ltd
+Philippines,Marogong,7.67,124.15,2527,Marogong Blockchain Ltd
+India,Sirūr,18.83,74.38,8708,Sirūr Mining Group
+Ukraine,Piatykhatky,48.4136,33.7028,1578,Piatykhatky Blockchain Ltd
+Philippines,Aparri,18.3575,121.6372,7096,Aparri Mining Group
+Egypt,Al Ḩībah,28.8,30.9167,6649,Al Ḩībah Blockchain Ltd
+Mexico,Apatzingan de la Constitucion,19.0886,-102.3508,6156,Apatzingan de la Constitucion Mining Co
+Serbia,Pećinci,44.9089,19.9664,2058,Pećinci Blockchain Ltd
+Thailand,Ban Sai Ma Tai,13.8642,100.4741,7716,Ban Sai Ma Tai Digital Mine
+Germany,Wernau,48.6886,9.4222,8159,Wernau Digital Mine
+Greece,Vasiliká,40.48,23.1367,5617,Vasiliká Digital Mine
+India,Konkavāripalle,13.7125,78.4861,3811,Konkavāripalle Blockchain Ltd
+Thailand,Ban San Phak Wan Luang,18.7049,98.9661,3407,Ban San Phak Wan Luang Crypto Miners
+United States,Logansport,40.7472,-86.352,5454,Logansport Digital Mine
+India,Dungra Chhota,23.1667,74.3,4708,Dungra Chhota Digital Mine
+India,Pulakurti,15.7502,77.7091,9923,Pulakurti Crypto Miners
+Nicaragua,Estelí,13.0833,-86.35,9297,Estelí Blockchain Ltd
+Brazil,Tacaratu,-9.1058,-38.15,9638,Tacaratu Digital Mine
+Mexico,Heroica Nogales,31.3186,-110.9458,8736,Heroica Nogales Blockchain Ltd
+India,Tiruverumbūr,10.7937,78.769,6121,Tiruverumbūr Digital Mine
+Brazil,Itajaí,-26.9078,-48.6619,2509,Itajaí Mining Group
+United Kingdom,Greasley,53.02,-1.27,2819,Greasley Mining Co
+Italy,Zanica,45.6394,9.6842,1631,Zanica Blockchain Ltd
+United States,Owasso,36.2878,-95.8311,6446,Owasso Blockchain Ltd
+United States,Bladensburg,38.9424,-76.9264,8223,Bladensburg Crypto Miners
+Comoros,Kourani,-11.8511,43.4261,6310,Kourani Digital Mine
+India,Jhundo,24.7756,86.2473,3453,Jhundo Mining Co
+France,Thionville,49.3589,6.1692,2071,Thionville Mining Co
+United States,Tanaina,61.6576,-149.4263,7530,Tanaina Blockchain Ltd
+Peru,Chancay,-11.5653,-77.2714,6072,Chancay Mining Co
+Honduras,Tocoa,15.6576,-86.005,6352,Tocoa Mining Co
+Kosovo,Shtime,42.4331,21.0397,2185,Shtime Mining Group
+Philippines,Botolan,15.2896,120.0245,8585,Botolan Mining Group
+Italy,Sansepolcro,43.5756,12.1439,8940,Sansepolcro Digital Mine
+Iran,Bandar Emām,30.5058,49.0742,4588,Bandar Emām Mining Co
+Germany,Aßlar,50.5833,8.4667,6064,Aßlar Mining Group
+Indonesia,Tarakan,3.3,117.6333,9009,Tarakan Mining Group
+United Kingdom,Stotfold,52.018,-0.228,8076,Stotfold Crypto Miners
+Philippines,Villasis,15.9,120.58,8277,Villasis Mining Co
+Brazil,Mundo Novo,-11.8589,-40.4719,2365,Mundo Novo Mining Group
+Netherlands,Schaesberg,50.8944,6.0158,9993,Schaesberg Digital Mine
+Kenya,Ramu,3.9375,41.2203,1195,Ramu Blockchain Ltd
+China,Jizhuang,40.3614,116.9858,1909,Jizhuang Digital Mine
+China,Dazhuangzi,40.2321,99.0558,6876,Dazhuangzi Mining Co
+Brazil,Araioses,-2.89,-41.9031,8039,Araioses Mining Group
+Italy,Sant’Antìoco,39.0664,8.4545,7688,Sant’Antìoco Mining Co
+India,Siwān,26.22,84.36,6888,Siwān Digital Mine
+Netherlands,Staphorst,52.6333,6.2,1054,Staphorst Crypto Miners
+Serbia,Apatin,45.6667,18.9833,6538,Apatin Mining Co
+Guatemala,Santa Cruz Balanyá,14.6833,-90.9167,1381,Santa Cruz Balanyá Blockchain Ltd
+China,Hengshui,37.739,115.669,1964,Hengshui Digital Mine
+United States,South Daytona,29.1657,-81.0055,3513,South Daytona Blockchain Ltd
+Mexico,Zacualtipán,20.65,-98.65,9877,Zacualtipán Crypto Miners
+Pakistan,Mandi Burewala,30.1592,72.6817,8898,Mandi Burewala Mining Group
+South Sudan,Kapoeta,4.7721,33.5902,9859,Kapoeta Blockchain Ltd
+United States,Hauppauge,40.8211,-73.2109,6412,Hauppauge Digital Mine
+United States,Columbia,38.4581,-90.2156,9355,Columbia Mining Group
+Belgium,Ronse,50.75,3.6,1582,Ronse Digital Mine
+United States,Port St. John,28.4757,-80.8104,7710,Port St. John Mining Group
+India,Patpāra,26.4328,86.1916,8418,Patpāra Crypto Miners
+Slovenia,Muta,46.6167,15.1667,8743,Muta Digital Mine
+Morocco,Douar Bni Malek,34.78,-5.6425,7527,Douar Bni Malek Mining Group
+India,Khānsāhibpuram,9.6304,77.6028,7904,Khānsāhibpuram Blockchain Ltd
+United States,White City,42.4316,-122.8322,5412,White City Mining Group
+Philippines,Lumba-a-Bayabao,7.88,124.38,5257,Lumba-a-Bayabao Blockchain Ltd
+United States,Brunswick,31.1449,-81.4746,3750,Brunswick Blockchain Ltd
+Germany,Zweibrücken,49.25,7.3667,7777,Zweibrücken Crypto Miners
+Russia,Dubovskoye,47.4092,42.7575,4017,Dubovskoye Digital Mine
+Turkey,Hanımçiftliği,38.3833,38.3333,4298,Hanımçiftliği Blockchain Ltd
+China,Dingyuan,35.9624,104.0028,2959,Dingyuan Mining Group
+India,Irinjālakuda,10.3424,76.2112,3671,Irinjālakuda Digital Mine
+Sri Lanka,Bandarawela,6.8333,80.9853,2354,Bandarawela Mining Co
+Germany,Bad Wurzach,47.9094,9.8994,1668,Bad Wurzach Digital Mine
+United States,Levittown,40.7241,-73.5125,8605,Levittown Digital Mine
+Morocco,Tourza,29.4778,-10.0158,5083,Tourza Digital Mine
+Algeria,Aït Yaïch,36.5811,4.3303,1307,Aït Yaïch Blockchain Ltd
+Ghana,Techiman,7.5905,-1.9395,1605,Techiman Mining Group
+Moldova,Camenca,48.0333,28.7,7209,Camenca Blockchain Ltd
+Uganda,Iganga,0.615,33.485,1925,Iganga Mining Group
+Turkey,Güneysınır,37.2981,32.7211,4248,Güneysınır Blockchain Ltd
+Brazil,Ubaíra,-13.2678,-39.6628,5841,Ubaíra Crypto Miners
+India,Bāra Khurd,25.2599,85.4325,5867,Bāra Khurd Mining Co
+Italy,Randazzo,37.8774,14.9501,2238,Randazzo Mining Co
+Cook Islands,Avarua,-21.207,-159.771,6989,Avarua Mining Group
+Greece,Piraeus,37.943,23.6469,9770,Piraeus Mining Co
+Romania,Calafat,43.9858,22.9575,9761,Calafat Blockchain Ltd
+India,Sangrām,26.3141,86.3515,6202,Sangrām Mining Group
+Portugal,Rio Maior,39.3333,-8.9333,5363,Rio Maior Mining Co
+Brazil,Taperoá,-13.5378,-39.0989,1837,Taperoá Mining Group
+Switzerland,Opfikon,47.4331,8.5719,9739,Opfikon Blockchain Ltd
+Germany,Glauchau,50.8233,12.5444,5419,Glauchau Crypto Miners
+India,Petmanhalli,17.7688,77.5056,6514,Petmanhalli Mining Group
+Cameroon,Bamukumbit,5.8167,10.4167,8200,Bamukumbit Mining Group
+India,Tanjore,10.787,79.1378,8307,Tanjore Crypto Miners
+India,Wānkāner,22.6161,70.9531,2781,Wānkāner Mining Co
+Spain,Alginet,39.2625,-0.4683,7993,Alginet Digital Mine
+India,Sāhar,26.5408,85.859,9476,Sāhar Blockchain Ltd
+Colombia,Bugalagrande,4.2167,-76.1667,7101,Bugalagrande Crypto Miners
+Syria,Şalkhad,32.492,36.7111,9706,Şalkhad Blockchain Ltd
+United Kingdom,Gravesend,51.4415,0.3685,3382,Gravesend Mining Group
+United Kingdom,Croydon,51.3727,-0.1099,7523,Croydon Mining Group
+Finland,Kerava,60.4,25.1,3662,Kerava Crypto Miners
+Iran,Kabūdarāhang,35.2069,48.7228,7437,Kabūdarāhang Mining Group
+India,Sundarapāndiyam,9.6127,77.6738,5210,Sundarapāndiyam Digital Mine
+United Kingdom,Tottenham,51.5975,-0.0681,2794,Tottenham Mining Group
+Côte d’Ivoire,Brofodoumé,5.5136,-3.9307,9386,Brofodoumé Blockchain Ltd
+Brazil,Nova Olinda,-7.6319,-48.4228,3432,Nova Olinda Mining Group
+France,La Ciotat,43.1769,5.6086,5633,La Ciotat Mining Group
+Philippines,Dolores,17.65,120.71,4967,Dolores Crypto Miners
+Russia,Pochëp,52.9333,33.45,7806,Pochëp Mining Co
+France,Reims,49.2628,4.0347,7670,Reims Digital Mine
+United States,Palmetto Bay,25.6219,-80.3221,9162,Palmetto Bay Crypto Miners
+Venezuela,Cagua,10.1875,-67.4611,8378,Cagua Digital Mine
+China,Yidu,30.378,111.45,3794,Yidu Mining Group
+Morocco,Semara,26.7394,-11.6703,6788,Semara Digital Mine
+India,Morab,15.5833,75.1667,3964,Morab Crypto Miners
+Bosnia and Herzegovina,Doboj,44.7333,18.1333,8533,Doboj Blockchain Ltd
+Japan,Iiyama,36.8516,138.3655,9320,Iiyama Blockchain Ltd
+United States,Mendota Heights,44.8815,-93.14,9423,Mendota Heights Blockchain Ltd
+Italy,Cuneo,44.3833,7.55,4187,Cuneo Blockchain Ltd
+Algeria,Mechta Ouled Oulha,35.6706,4.8778,3281,Mechta Ouled Oulha Crypto Miners
+China,Gengzhuangqiaocun,37.4453,114.9804,8490,Gengzhuangqiaocun Digital Mine
+Argentina,Rauch,-36.7667,-59.1,9680,Rauch Blockchain Ltd
+Madagascar,Ilafy,-17.8919,48.4145,4155,Ilafy Mining Group
+Turkey,Gürsu,40.2144,29.1931,8809,Gürsu Blockchain Ltd
+India,Bela,24.9689,84.974,5530,Bela Blockchain Ltd
+United Kingdom,Ashby de la Zouch,52.746,-1.476,8172,Ashby de la Zouch Mining Group
+India,Gethaura,25.6879,87.7092,7780,Gethaura Crypto Miners
+India,Shankarpalli,17.4523,78.131,7805,Shankarpalli Digital Mine
+"Korea, South",Seosaeng,35.3536,129.3303,7780,Seosaeng Mining Group
+Brazil,Ponta Porã,-22.5361,-55.7256,6974,Ponta Porã Mining Group
+United States,Leeds,33.5436,-86.5639,9000,Leeds Mining Group
+India,Belagola,12.3914,76.6097,4156,Belagola Mining Group
+India,Mehidpur,23.4888,75.658,9322,Mehidpur Blockchain Ltd
+Brazil,União dos Palmares,-9.1628,-36.0319,3960,União dos Palmares Mining Co
+Colombia,San Jerónimo,6.4417,-75.7278,1392,San Jerónimo Digital Mine
+India,Bāri,26.63,77.62,1292,Bāri Mining Group
+Argentina,Rodeo,-30.2164,-69.1394,6288,Rodeo Mining Group
+Ghana,Sawla,9.2729,-2.4143,8765,Sawla Blockchain Ltd
+United Kingdom,Radcliffe,53.5615,-2.3268,1708,Radcliffe Crypto Miners
+India,Tekkēkara Kizhakku,9.2,76.5,4440,Tekkēkara Kizhakku Mining Group
+India,Vadodara,22.3,73.2,8204,Vadodara Mining Co
+Norway,Vennesla,58.3106,7.8569,7988,Vennesla Digital Mine
+Russia,Sochi,43.5853,39.7203,6258,Sochi Digital Mine
+Nicaragua,El Tortuguero,12.8167,-84.2,1040,El Tortuguero Crypto Miners
+Brazil,Bonito de Santa Fé,-7.3128,-38.515,4325,Bonito de Santa Fé Mining Group
+Canada,Guelph,43.55,-80.25,6599,Guelph Crypto Miners
+Philippines,Burgos,16.0465,119.8568,5326,Burgos Digital Mine
+Italy,Terzigno,40.8,14.5,1977,Terzigno Crypto Miners
+Canada,Langley,49.0987,-122.6597,9610,Langley Mining Group
+India,Rājim,20.965,81.8817,4921,Rājim Crypto Miners
+United Kingdom,Ystrad Mynach,51.6419,-3.2405,4122,Ystrad Mynach Crypto Miners
+Argentina,San Ramón de la Nueva Orán,-23.1333,-64.3333,4488,San Ramón de la Nueva Orán Crypto Miners
+Bolivia,Villamontes,-21.2608,-63.4761,8181,Villamontes Crypto Miners
+Poland,Rumia,54.5667,18.4,7866,Rumia Crypto Miners
+India,Gormi,26.6003,78.5119,7931,Gormi Mining Co
+Philippines,Alfonso,14.1379,120.8552,5047,Alfonso Blockchain Ltd
+Greece,Kérkyra,39.6239,19.9214,5454,Kérkyra Mining Co
+New Caledonia,Nouméa,-22.2625,166.4443,8807,Nouméa Digital Mine
+United Kingdom,Oxford,51.7519,-1.2578,5941,Oxford Mining Group
+Mexico,Ciudad Obregón,27.4939,-109.9389,5145,Ciudad Obregón Digital Mine
+Philippines,San Remigio,11.0,123.95,4503,San Remigio Mining Co
+Venezuela,Píritu,10.0395,-65.0304,8942,Píritu Blockchain Ltd
+Pakistan,Jauharabad,32.2919,72.2736,5537,Jauharabad Digital Mine
+Colombia,Tarrá,8.0475,-73.0836,3364,Tarrá Crypto Miners
+Mali,Bangassi-Nangou,14.4961,-11.5078,1254,Bangassi-Nangou Mining Group
+Philippines,Pontevedra,11.48,122.83,2243,Pontevedra Digital Mine
+Philippines,Claveria,8.61,124.8947,9614,Claveria Crypto Miners
+China,Liaoyang,41.279,123.176,3060,Liaoyang Mining Co
+Latvia,Bauska,56.4067,24.1875,6948,Bauska Digital Mine
+Finland,Salo,60.3861,23.125,6942,Salo Mining Group
+Italy,San Giovanni Rotondo,41.7,15.7333,7797,San Giovanni Rotondo Digital Mine
+Cambodia,Svay Pak,11.646,104.8741,8933,Svay Pak Blockchain Ltd
+Iran,Kermān,30.2625,57.0575,2992,Kermān Mining Co
+Netherlands,Almelo,52.3567,6.6625,9577,Almelo Crypto Miners
+Colombia,Suaita,6.1019,-73.4406,4536,Suaita Crypto Miners
+Burundi,Gitega,-3.4283,29.925,1544,Gitega Digital Mine
+Angola,Ndalatando,-9.3,14.9167,9337,Ndalatando Crypto Miners
+United States,Long Beach,40.5887,-73.666,4299,Long Beach Blockchain Ltd
+Czechia,Frenštát pod Radhoštěm,49.5483,18.2108,5409,Frenštát pod Radhoštěm Digital Mine
+Nicaragua,Bluefields,12.0,-83.75,4413,Bluefields Mining Co
+United Kingdom,Swinton,53.4877,-1.3149,4257,Swinton Mining Group
+Uzbekistan,Dehqonobod,40.5314,69.0342,3583,Dehqonobod Crypto Miners
+Poland,Ostróda,53.7,19.9667,2182,Ostróda Crypto Miners
+United States,Ada,34.7662,-96.6681,7011,Ada Crypto Miners
+Netherlands,Eindhoven,51.4344,5.4842,5822,Eindhoven Crypto Miners
+Netherlands,Ubbergen,51.8333,5.9167,6467,Ubbergen Digital Mine
+Nepal,Kirtipur,27.6667,85.2833,5175,Kirtipur Mining Group
+United States,Surprise,33.6815,-112.4515,6536,Surprise Mining Co
+Brazil,Mirinzal,-2.065,-44.7839,2703,Mirinzal Crypto Miners
+France,Étampes,48.4343,2.1615,9819,Étampes Blockchain Ltd
+Turkey,Sarız,38.4792,36.5006,1831,Sarız Digital Mine
+United States,Chatham,39.6733,-89.6934,9347,Chatham Blockchain Ltd
+India,Peranāmpattu,12.9387,78.7028,8618,Peranāmpattu Crypto Miners
+Philippines,Ormoc,11.0106,124.6075,5152,Ormoc Crypto Miners
+United States,Cape Coral,26.6443,-81.9957,1626,Cape Coral Crypto Miners
+Mexico,Izamal,20.9314,-89.0178,1696,Izamal Mining Group
+Burkina Faso,Soubakaniédougou,10.4824,-5.0098,2417,Soubakaniédougou Digital Mine
+Malawi,Mulanje,-16.0333,35.5,2190,Mulanje Mining Co
+Philippines,Magallanes,14.18,120.75,5640,Magallanes Mining Group
+Libya,Marādah,29.2337,19.2166,3574,Marādah Blockchain Ltd
+Japan,Higashimiyoshi,34.0333,133.9333,5465,Higashimiyoshi Mining Co
+Germany,Cuxhaven,53.8611,8.6944,8308,Cuxhaven Blockchain Ltd
+India,Katarmāla,25.5036,86.2447,9182,Katarmāla Mining Group
+Croatia,Sisak,45.4872,16.3761,8227,Sisak Blockchain Ltd
+Germany,Torgelow,53.6167,14.0,1198,Torgelow Crypto Miners
+Venezuela,Lecherías,10.1917,-64.6921,6958,Lecherías Blockchain Ltd
+Kyrgyzstan,Arslanbob,41.3382,72.9291,8668,Arslanbob Blockchain Ltd
+Germany,Kaldenkirchen,51.3167,6.2833,2030,Kaldenkirchen Mining Co
+France,Apt,43.8769,5.3969,7161,Apt Digital Mine
+India,Tivim,15.6,73.8,9529,Tivim Mining Co
+Suriname,Lelydorp,5.6967,-55.2167,4036,Lelydorp Mining Group
+Uzbekistan,Chortoq,41.0689,71.8153,8693,Chortoq Blockchain Ltd
+India,Anandnagar,27.1,83.2833,1792,Anandnagar Crypto Miners
+India,Ambalavayal,11.619,76.2102,2346,Ambalavayal Mining Co
+Philippines,Santa Rosa,15.4239,120.9389,2761,Santa Rosa Digital Mine
+United States,Shawangunk,41.6335,-74.2654,2857,Shawangunk Mining Group
+India,Nilaiyūr,9.8572,78.0598,6840,Nilaiyūr Digital Mine
+Colombia,Puerto López,4.0872,-72.9606,9826,Puerto López Digital Mine
+Japan,Mannō,34.2,133.8333,7356,Mannō Mining Co
+United States,Watauga,32.8719,-97.2515,4106,Watauga Digital Mine
+Bangladesh,Nazipur,25.0455,88.7609,2694,Nazipur Digital Mine
+Argentina,Manuel B. Gonnet,-34.85,-58.0167,6697,Manuel B. Gonnet Mining Group
+Andorra,La Massana,42.5444,1.5144,3708,La Massana Digital Mine
+United Kingdom,Holbeach,52.8037,0.0154,1285,Holbeach Blockchain Ltd
+Venezuela,Upata,8.0204,-62.41,2407,Upata Mining Group
+Brazil,Schroeder,-26.4128,-49.0728,1346,Schroeder Mining Group
+France,Villefontaine,45.6142,5.1494,7485,Villefontaine Digital Mine
+Madagascar,Gogogogo,-24.2659,44.8069,2771,Gogogogo Blockchain Ltd
+Italy,Mussomeli,37.5794,13.7525,7159,Mussomeli Crypto Miners
+Ecuador,Gualaquiza,-3.38,-78.58,9101,Gualaquiza Blockchain Ltd
+Japan,Ōta,36.2911,139.3754,6047,Ōta Mining Co
+Thailand,Taphan Hin,16.2209,100.4198,4743,Taphan Hin Mining Group
+Congo (Kinshasa),Gemena,3.25,19.7667,6332,Gemena Digital Mine
+Chile,Pinto,-36.7036,-71.8922,4850,Pinto Mining Group
+Indonesia,Bitung,1.4472,125.1978,6327,Bitung Digital Mine
+Germany,Buchen in Odenwald,49.5217,9.3233,4895,Buchen in Odenwald Blockchain Ltd
+Netherlands,Tubbergen,52.4,6.7667,4015,Tubbergen Blockchain Ltd
+India,Goribidnūr,13.6111,77.5167,3171,Goribidnūr Digital Mine
+Brazil,Palmas de Monte Alto,-14.2672,-43.1619,1288,Palmas de Monte Alto Crypto Miners
+Austria,Trofaiach,47.426,15.0067,2702,Trofaiach Blockchain Ltd
+Germany,Osterholz-Scharmbeck,53.2167,8.8,3538,Osterholz-Scharmbeck Crypto Miners
+Germany,Neuenbürg,48.8461,8.5889,5734,Neuenbürg Mining Group
+Iran,Dorūd,33.4994,49.0531,5282,Dorūd Crypto Miners
+India,Saugor,23.83,78.71,2009,Saugor Digital Mine
+India,Marāi Kalān,24.0211,85.3506,7807,Marāi Kalān Mining Co
+Mexico,Tepetitlan,20.1842,-99.3808,5663,Tepetitlan Mining Co
+United States,Columbia,35.6238,-87.0484,4740,Columbia Mining Group
+India,Alamādi,13.1097,80.0972,9151,Alamādi Blockchain Ltd
+Switzerland,La Chaux-de-Fonds,47.1028,6.83,6533,La Chaux-de-Fonds Crypto Miners
+India,Kottūru,14.8262,76.2259,9448,Kottūru Crypto Miners
+Greece,Elassóna,39.8833,22.1833,9453,Elassóna Digital Mine
+Germany,Neuötting,48.2167,12.6833,5055,Neuötting Digital Mine
+India,Lakkavaram,17.0628,81.2919,9846,Lakkavaram Digital Mine
+Brazil,Artur Nogueira,-22.5731,-47.1725,5197,Artur Nogueira Mining Co
+India,Tharād,24.3926,71.6248,7481,Tharād Mining Co
+United States,Center Point,33.6447,-86.6852,4832,Center Point Digital Mine
+Syria,Maskanah,35.9658,38.0416,5718,Maskanah Blockchain Ltd
+Colombia,Purísima de la Concepción,9.2333,-75.7333,8064,Purísima de la Concepción Crypto Miners
+India,Bhatranha,25.9846,86.6348,2122,Bhatranha Mining Group
+Germany,Pasewalk,53.5,14.0,1784,Pasewalk Mining Group
+Italy,Trento,46.0667,11.1167,4778,Trento Mining Co
+Indonesia,Singaraja,-8.1167,115.0833,9909,Singaraja Mining Co
+United Kingdom,Kingsteignton,50.5458,-3.5962,8458,Kingsteignton Digital Mine
+Bolivia,Sabaya,-19.0147,-68.3708,3743,Sabaya Mining Co
+India,Kīranūr,11.692,79.2899,8151,Kīranūr Mining Group
+Japan,Kesennuma,38.9081,141.5699,8155,Kesennuma Mining Co
+Mexico,Charcas,23.1261,-101.1128,2750,Charcas Crypto Miners
+France,Mantes-la-Ville,48.975,1.7117,9571,Mantes-la-Ville Mining Co
+China,Qiantangcun,23.6742,116.915,2254,Qiantangcun Digital Mine
+Slovakia,Banská Bystrica,48.7353,19.1453,6624,Banská Bystrica Digital Mine
+Japan,Mineshita,35.1185,138.9186,2975,Mineshita Mining Group
+China,Yangchun,22.1704,111.7916,8557,Yangchun Crypto Miners
+Uruguay,Pando,-34.7167,-55.9583,2323,Pando Crypto Miners
+Equatorial Guinea,Aconibe,1.3,10.9333,5727,Aconibe Mining Co
+India,Wālājābād,12.7904,79.8236,1677,Wālājābād Mining Group
+South Africa,East London,-33.0175,27.9047,8923,East London Mining Co
+Turkey,Bala,39.5539,33.1211,7901,Bala Crypto Miners
+India,Lakkampatti,11.4461,77.4118,5010,Lakkampatti Digital Mine
+Brazil,Ronda Alta,-27.7669,-52.8019,5491,Ronda Alta Mining Group
+Brazil,São João da Barra,-21.64,-41.0508,6086,São João da Barra Digital Mine
+Chile,Alto Hospicio,-20.25,-70.1167,2398,Alto Hospicio Mining Co
+China,Yuci,37.6823,112.7281,2888,Yuci Crypto Miners
+Turkey,Batman,37.887,41.132,2778,Batman Mining Group
+Croatia,Daruvar,45.6,17.2167,1892,Daruvar Mining Co
+Russia,Zemlya Bunge,74.8983,142.105,9509,Zemlya Bunge Mining Co
+Italy,Sestri Levante,44.2733,9.3932,1265,Sestri Levante Blockchain Ltd
+Hong Kong,San Tung Chung Hang,22.2869,113.9436,9280,San Tung Chung Hang Crypto Miners
+Guam,Hagåtña,13.4745,144.7504,6716,Hagåtña Mining Group
+China,Zhangziying,39.6842,116.59,3056,Zhangziying Blockchain Ltd
+United States,Mitchellville,38.9358,-76.8146,2704,Mitchellville Blockchain Ltd
+Bangladesh,Maulavi Bāzār,24.4889,91.7708,4517,Maulavi Bāzār Blockchain Ltd
+Japan,Yokotemachi,39.3113,140.5533,5614,Yokotemachi Crypto Miners
+Japan,Susono,35.1739,138.9068,6411,Susono Digital Mine
+Colombia,Mocoa,1.15,-76.6475,5482,Mocoa Mining Co
+Switzerland,La Grande Racine,46.9068,6.7633,8054,La Grande Racine Blockchain Ltd
+Vietnam,Thạnh Phú,9.9539,106.5069,6978,Thạnh Phú Blockchain Ltd
+Armenia,Ejmiatsin,40.1728,44.2925,9000,Ejmiatsin Crypto Miners
+Turkey,Taşucu,36.3333,33.8833,5684,Taşucu Mining Group
+Canada,Strathroy,42.9558,-81.6226,3823,Strathroy Crypto Miners
+Venezuela,Guasipati,7.4667,-61.4667,2311,Guasipati Mining Group
+Guinea,Faranah,10.0333,-10.7333,5303,Faranah Crypto Miners
+United Kingdom,Great Bookham,51.278,-0.373,1109,Great Bookham Crypto Miners
+Mexico,Hostotipaquillo,21.2167,-103.85,6002,Hostotipaquillo Crypto Miners
+Ecuador,Cumandá,-2.2058,-79.1339,8436,Cumandá Crypto Miners
+Philippines,Carranglan,15.9608,121.0631,5919,Carranglan Blockchain Ltd
+Poland,Międzyrzec Podlaski,51.9833,22.7833,4080,Międzyrzec Podlaski Blockchain Ltd
+France,Tulle,45.2678,1.7706,2310,Tulle Mining Group
+United States,Raritan,40.507,-74.8662,8393,Raritan Mining Co
+United States,Sandwich,41.7137,-70.4851,8642,Sandwich Mining Co
+Afghanistan,Qal‘ah-ye Zāl,37.015,68.4672,6548,Qal‘ah-ye Zāl Blockchain Ltd
+India,Livinjipuram,8.1535,77.5719,5126,Livinjipuram Mining Group
+United States,Canonsburg,40.2643,-80.1867,5599,Canonsburg Crypto Miners
+United Kingdom,Holywell,53.274,-3.223,8910,Holywell Mining Group
+Greece,Korydallós,37.9833,23.65,4274,Korydallós Mining Group
+Madagascar,Mantaly,-13.1662,48.9647,4345,Mantaly Crypto Miners
+Brazil,Porecatu,-22.7558,-51.3789,5827,Porecatu Crypto Miners
+Colombia,Socorro,6.5333,-73.2,5887,Socorro Mining Group
+Brazil,Alvorada D’Oeste,-11.3417,-62.2861,4126,Alvorada D’Oeste Digital Mine
+Philippines,Barcelona,12.8694,124.1419,6732,Barcelona Blockchain Ltd
+Lithuania,Šilutė,55.35,21.4833,7079,Šilutė Mining Group
+United Kingdom,Dungannon,54.5,-6.77,6560,Dungannon Crypto Miners
+India,Devipattinam,9.477,78.8961,3470,Devipattinam Digital Mine
+India,Sabalpur,25.6053,85.1835,6240,Sabalpur Mining Co
+Russia,Nikolayevsk,50.0333,45.45,5268,Nikolayevsk Mining Group
+Argentina,San Pedro,-33.6792,-59.6669,9103,San Pedro Digital Mine
+United States,East Providence,41.8065,-71.3565,5753,East Providence Blockchain Ltd
+El Salvador,Osicala,13.8,-88.15,4287,Osicala Mining Co
+United States,Lapeer,43.0447,-83.3253,2701,Lapeer Blockchain Ltd
+Brazil,Pedreiras,-4.5739,-44.5969,2043,Pedreiras Mining Group
+El Salvador,Nahulingo,13.7,-89.7167,8805,Nahulingo Mining Co
+Pakistan,Muridke,31.802,74.255,9400,Muridke Blockchain Ltd
+Burkina Faso,Zorgo,12.25,-0.6167,9189,Zorgo Crypto Miners
+Madagascar,Ambatolampy,-19.3796,47.4335,3358,Ambatolampy Mining Group
+Ukraine,Burshtyn,49.2583,24.6278,5399,Burshtyn Crypto Miners
+Chile,Peralillo,-34.4875,-71.4917,6475,Peralillo Blockchain Ltd
+Algeria,Aïn el Hadjar,36.3333,3.8,3466,Aïn el Hadjar Crypto Miners
+India,Kaithal,29.8015,76.3998,2557,Kaithal Blockchain Ltd
+Brazil,Cianorte,-23.6628,-52.605,3508,Cianorte Digital Mine
+United States,Claremont,34.1259,-117.7153,7506,Claremont Mining Group
+Madagascar,Vohitrandriana,-20.7601,48.2652,3367,Vohitrandriana Mining Group
+"Korea, South",Guryongpo,35.9833,129.55,8516,Guryongpo Mining Co
+Romania,Borşa,47.6553,24.6631,5298,Borşa Mining Group
+Germany,Obertraubling,48.9658,12.1669,4983,Obertraubling Mining Co
+Nigeria,Oyo,7.8417,3.9306,1267,Oyo Mining Co
+Mongolia,Öndörhaan,47.3167,110.65,4978,Öndörhaan Crypto Miners
+Madagascar,Sahave,-21.0793,47.1126,5872,Sahave Mining Co
+China,Yingzhou Linchang,18.4199,109.8553,5246,Yingzhou Linchang Mining Group
+France,Châlons-en-Champagne,48.9575,4.365,7979,Châlons-en-Champagne Digital Mine
+Guatemala,Pajapita,14.7167,-92.0333,1474,Pajapita Crypto Miners
+India,Nāgasamudram,15.0556,77.5004,4495,Nāgasamudram Crypto Miners
+Guatemala,San Rafael Pie de la Cuesta,14.9333,-91.9167,4919,San Rafael Pie de la Cuesta Crypto Miners
+India,Anantapur,14.68,77.599,5685,Anantapur Crypto Miners
+Spain,Premiá de Mar,41.4919,2.3619,4145,Premiá de Mar Blockchain Ltd
+Brazil,Iguatu,-6.3594,-39.2986,6870,Iguatu Mining Co
+Moldova,Rîşcani,47.9572,27.5539,8347,Rîşcani Mining Co
+United States,Kapaa,22.091,-159.3521,1360,Kapaa Mining Co
+Philippines,Hingyon,16.8522,121.0989,2881,Hingyon Mining Co
+Ecuador,Jaramijó,-0.9487,-80.6363,1358,Jaramijó Digital Mine
+Brazil,Campo Mourão,-24.0458,-52.3828,5156,Campo Mourão Crypto Miners
+Japan,Kamifurano,43.45,142.4667,1359,Kamifurano Crypto Miners
+United Kingdom,Prestatyn,53.331,-3.405,4329,Prestatyn Crypto Miners
+United Kingdom,Hamworthy,50.7207,-2.0109,5411,Hamworthy Mining Co
+India,Nachchāndupatti,10.3238,78.7233,2279,Nachchāndupatti Blockchain Ltd
+France,Vedène,43.9783,4.9039,4864,Vedène Blockchain Ltd
+Brazil,Rondon do Pará,-4.7758,-48.0669,3927,Rondon do Pará Blockchain Ltd
+Germany,Calw,48.7167,8.7333,5203,Calw Mining Group
+United States,South Houston,29.6611,-95.2285,5156,South Houston Mining Co
+India,Chethakal,9.4386,76.8322,9803,Chethakal Blockchain Ltd
+United States,Mililani Town,21.4465,-158.0147,8186,Mililani Town Mining Group
+Indonesia,Raha,-4.8311,122.7239,8917,Raha Crypto Miners
+India,Bishunpur,26.1561,87.2711,2069,Bishunpur Mining Group
+Costa Rica,Río Segundo,10.0013,-84.1937,6453,Río Segundo Crypto Miners
