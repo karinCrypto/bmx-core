@@ -47,4 +47,8 @@ app.layout = html.Div([
 
 # 실행
 if __name__ == '__main__':
-    app.run_server(debug=False, port=8080)
+    app.run_server(
+        debug=False,
+        host='0.0.0.0',
+        port=int(os.environ.get("PORT", 8080))  # Render가 자동으로 PORT를 지정함
+    )
